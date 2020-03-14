@@ -254,7 +254,6 @@ INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/fixos/indiceAutomatico.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/fixos/indiceAutomatico.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.toc
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.toc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
@@ -270,7 +269,16 @@ INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/textoepostexto.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/elementosdotexto.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/elementosdotexto.tex
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/figura1.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/figura1.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/figura1.png
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/der.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/der.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/der.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/dl.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/dl.png
+INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/dl.png
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/elementosdopostexto.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/elementosdopostexto.tex
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
@@ -282,7 +290,6 @@ INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.brf
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.brf
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.brf
 OUTPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.brf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/apendices.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/apendices.tex
 INPUT /Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/anexos.tex
@@ -310,5 +317,4 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb

@@ -25,6 +25,11 @@ Rio de Janeiro, 2000.}
   apresenta{\c c}\~ao.
 Rio de Janeiro, 2011. 15~p.}
 
+\bibitem[Cardoso e Mara 2013]{sistemadebancos}
+\abntrefinfo{Cardoso e Mara}{CARDOSO; MARA}{2013}
+{CARDOSO, G.~C.; MARA, V.~C. \emph{Sistema de banco de dados: Uma abordagem
+  introdutória e aplicada}. 1. ed. [S.l.: s.n.], 2013.}
+
 \bibitem[Heuser 1998]{projetobancodedados}
 \abntrefinfo{Heuser}{HEUSER}{1998}
 {HEUSER, C.~A. \emph{Projeto de banco de dados}. 4. ed. [S.l.: s.n.], 1998.}
