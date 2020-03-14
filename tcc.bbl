@@ -1,0 +1,32 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.7 }
+
+\bibitem[Arruda 2007]{arruda2007}
+\abntrefinfo{Arruda}{ARRUDA}{2007}
+{ARRUDA, M. B.~B. Como fazer referências: bibliográficas, eletrônicas e
+  demais formas de documentos.
+2007.
+Dispon{\'\i}vel em: \url{http://bu.ufsc.br/framerefer.html}.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2000]{NBR6034:2000}
+\abntrefinfo{ABNT}{ABNT}{2000}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 14724}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- referências.
+Rio de Janeiro, 2000.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2011]{NBR14724:2011}
+\abntrefinfo{ABNT}{ABNT}{2011}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 14724}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2011. 15~p.}
+
+\bibitem[Heuser 1998]{projetobancodedados}
+\abntrefinfo{Heuser}{HEUSER}{1998}
+{HEUSER, C.~A. \emph{Projeto de banco de dados}. 4. ed. [S.l.: s.n.], 1998.}
+
+\end{thebibliography}
