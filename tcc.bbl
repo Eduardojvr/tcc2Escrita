@@ -5,6 +5,21 @@
 \providecommand{\abntbstabout}[1]{}
 \abntbstabout{v-1.9.7 }
 
+\bibitem[Almeida et al. 2019]{ambap}
+\abntrefinfo{Almeida et al.}{ALMEIDA et al.}{2019}
+{ALMEIDA, E. et al. Ambap: Um ambiente de apoio ao aprendizado de
+  programação.
+09 2019.}
+
+\bibitem[Arena e Schwartz 2014]{Arena2014}
+\abntrefinfo{Arena e Schwartz}{ARENA; SCHWARTZ}{2014}
+{ARENA, D.~A.; SCHWARTZ, D.~L. Experience and explanation: Using videogames to
+  prepare students for formal instruction in statistics.
+\emph{Journal of Science Education and Technology}, v.~23, n.~4, p. 538--548,
+  Aug 2014.
+ISSN 1573-1839.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10956-013-9483-3}.}
+
 \bibitem[Arruda 2007]{arruda2007}
 \abntrefinfo{Arruda}{ARRUDA}{2007}
 {ARRUDA, M. B.~B. Como fazer referências: bibliográficas, eletrônicas e
@@ -25,13 +40,111 @@ Rio de Janeiro, 2000.}
   apresenta{\c c}\~ao.
 Rio de Janeiro, 2011. 15~p.}
 
+\bibitem[{BARATA} et al. 2013]{6624228}
+\abntrefinfo{{BARATA} et al.}{{BARATA} et al.}{2013}
+{{BARATA}, G. et al. Engaging engineering students with gamification. In:
+  \emph{2013 5th International Conference on Games and Virtual Worlds for
+  Serious Applications (VS-GAMES)}. [S.l.: s.n.], 2013. p.~1--8.}
+
+\bibitem[Baruque 2015]{Brazil}
+\abntrefinfo{Baruque}{BARUQUE}{2015}
+{BARUQUE, A.~B. e L. Gamificação aplicada na graduação em jogos digitais.
+\emph{Brazilian Symposium on Computers in Education (Simpósio Brasileiro de
+  Informática na Educação - SBIE)}, v.~26, n.~1, p.~677, 2015.
+ISSN 2316-6533.
+Dispon{\'\i}vel em:
+  \url{https://www.br-ie.org/pub/index.php/sbie/article/view/5338}.}
+
+\bibitem[Calixto 2016]{calixto}
+\abntrefinfo{Calixto}{CALIXTO}{2016}
+{CALIXTO, G. de L. Fatores relacionados ao ensino de programação: Uma
+  análise das disciplinas introdutórias em cursos de engenharia de softtware.
+p. 1--82, 2016.}
+
 \bibitem[Cardoso e Mara 2013]{sistemadebancos}
 \abntrefinfo{Cardoso e Mara}{CARDOSO; MARA}{2013}
 {CARDOSO, G.~C.; MARA, V.~C. \emph{Sistema de banco de dados: Uma abordagem
   introdutória e aplicada}. 1. ed. [S.l.: s.n.], 2013.}
 
+\bibitem[{COMBÉFIS}, {BERESNEVIČIUS} e {DAGIENĖ} 2016]{LearningProgramming}
+\abntrefinfo{{COMBÉFIS}, {BERESNEVIČIUS} e {DAGIENĖ}}{{COMBÉFIS};
+  {BERESNEVIČIUS}; {DAGIENĖ}}{2016}
+{{COMBÉFIS}, S.; {BERESNEVIČIUS}, G.; {DAGIENĖ}, V. Learning programming
+  through games and contests: Overview, characterisation and discussion.
+\emph{Olympiads in Informatics}, v.~10, 2016.
+Dispon{\'\i}vel em:
+  \url{https://ioinformatics.org/journal/v10\_2016\_39\_60.pdf}.}
+
+\bibitem[Dai, Zhao e Chen 2010]{inproceedings}
+\abntrefinfo{Dai, Zhao e Chen}{DAI; ZHAO; CHEN}{2010}
+{DAI, K.; ZHAO, Y.; CHEN, R. Research and practice on constructing the course
+  of programming language. In:  . [S.l.: s.n.], 2010. p. 2033 -- 2038.}
+
+\bibitem[Dantas 2016]{SBIE6739}
+\abntrefinfo{Dantas}{DANTAS}{2016}
+{DANTAS, E.~R. e V. O desafio da serpente - usando gamification para motivar
+  alunos em uma disciplina introdutória de programação.
+\emph{Brazilian Symposium on Computers in Education (Simpósio Brasileiro de
+  Informática na Educação - SBIE)}, v.~27, n.~1, p.~577, 2016.
+ISSN 2316-6533.
+Dispon{\'\i}vel em:
+  \url{https://www.br-ie.org/pub/index.php/sbie/article/view/6739}.}
+
+\bibitem[Deterding et al. 2011]{Deterding:2011:GDE:2181037.2181040}
+\abntrefinfo{Deterding et al.}{DETERDING et al.}{2011}
+{DETERDING, S. et al. From game design elements to gamefulness: Defining
+  "gamification". In:  \emph{Proceedings of the 15th International Academic
+  MindTrek Conference: Envisioning Future Media Environments}. New York, NY,
+  USA: ACM, 2011.  (MindTrek '11), p. 9--15.
+ISBN 978-1-4503-0816-8. Dispon{\'\i}vel em:
+  \url{http://doi-acm-org.ez54.periodicos.capes.gov.br/10.1145/2181037.2181040}.}
+
+\bibitem[Dickey 2005]{Dickey2005}
+\abntrefinfo{Dickey}{DICKEY}{2005}
+{DICKEY, M.~D. Engaging by design: How engagement strategies in popular
+  computer and video games can inform instructional design.
+\emph{Educational Technology Research and Development}, v.~53, n.~2, p. 67--83,
+  Jun 2005.
+ISSN 1556-6501.
+Dispon{\'\i}vel em: \url{https://doi.org/10.1007/BF02504866}.}
+
 \bibitem[Heuser 1998]{projetobancodedados}
 \abntrefinfo{Heuser}{HEUSER}{1998}
 {HEUSER, C.~A. \emph{Projeto de banco de dados}. 4. ed. [S.l.: s.n.], 1998.}
+
+\bibitem[{PEREIRA}, {COSTA} e {APARICIO} 2017]{7975788}
+\abntrefinfo{{PEREIRA}, {COSTA} e {APARICIO}}{{PEREIRA}; {COSTA};
+  {APARICIO}}{2017}
+{{PEREIRA}, R.; {COSTA}, C.~J.; {APARICIO}, J.~T. \emph{Gamification to support
+  programming learning}.
+[S.l.], 2017. 1-6~p.}
+
+\bibitem[Prensky 2003]{Prensky:2003:DGL:950566.950596}
+\abntrefinfo{Prensky}{PRENSKY}{2003}
+{PRENSKY, M. Digital game-based learning.
+\emph{Comput. Entertain.}, ACM, New York, NY, USA, v.~1, n.~1, p. 21--21, out.
+  2003.
+ISSN 1544-3574.
+Dispon{\'\i}vel em:
+  \url{http://doi-acm-org.ez54.periodicos.capes.gov.br/10.1145/950566.950596}.}
+
+\bibitem[Souza 2009]{de2009visualg}
+\abntrefinfo{Souza}{SOUZA}{2009}
+{SOUZA, C.~M. de. Visualg-ferramenta de apoio ao ensino de programação.
+\emph{Revista Eletrônica TECCEN}, v.~2, n.~2, p. 01--09, 2009.}
+
+\bibitem[Thais et al. 2002]{funcional}
+\abntrefinfo{Thais et al.}{THAIS et al.}{2002}
+{THAIS, H. et al. Utilizando programação funcional em disciplinas
+  introdutórias de computação.
+p. 3000--69077, 07 2002.}
+
+\bibitem[Vieira, Junior e Vieira 2015]{vieira2015dificuldades}
+\abntrefinfo{Vieira, Junior e Vieira}{VIEIRA; JUNIOR; VIEIRA}{2015}
+{VIEIRA, C. E.~C.; JUNIOR, J. A.~T. de L.; VIEIRA, P. de P. Dificuldades no
+  processo de aprendizagem de algoritmos: uma análise dos resultados na
+  disciplina de al1 do curso de sistemas de informação da faeterj--campus
+  paracambi.
+\emph{Cadernos UniFOA}, v.~10, n.~27, p. 5--15, 2015.}
 
 \end{thebibliography}

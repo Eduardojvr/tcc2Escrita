@@ -269,10 +269,12 @@ INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/textoepo
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/elementosdotexto.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/elementosdotexto.tex
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
-INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
-INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
-INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/aisha.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/aisha.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/aisha.png
@@ -299,8 +301,6 @@ INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/dl.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/dl.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/elementosdopostexto.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/elementosdopostexto.tex
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.bbl
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.bbl
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.brf
