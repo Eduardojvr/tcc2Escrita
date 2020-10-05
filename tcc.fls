@@ -225,8 +225,6 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/errata.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/errata.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmbx10.tfm
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/fixos/folhaDeAprovacao.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/fixos/folhaDeAprovacao.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/dedicatoria.tex
@@ -234,6 +232,7 @@ INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/dedicato
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/agradecimentos.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/agradecimentos.tex
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/epigrafe.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/epigrafe.tex
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/editaveis/resumo.tex
@@ -272,6 +271,9 @@ INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
 INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmr.fd
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/modoTradicional.png
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/modoTradicional.png
+INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/modoTradicional.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/figuras/figura1.png
@@ -320,14 +322,9 @@ OUTPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.toc
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.aux
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.brf
 INPUT /Users/eduardorodrigues/Documents/organizar/tcc2Escrita/tcc.brf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx10.pfb
+INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmmi12.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmmi8.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr12.pfb
 INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb

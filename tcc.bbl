@@ -20,26 +20,6 @@
 ISSN 1573-1839.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10956-013-9483-3}.}
 
-\bibitem[Arruda 2007]{arruda2007}
-\abntrefinfo{Arruda}{ARRUDA}{2007}
-{ARRUDA, M. B.~B. Como fazer referências: bibliográficas, eletrônicas e
-  demais formas de documentos.
-2007.
-Dispon{\'\i}vel em: \url{http://bu.ufsc.br/framerefer.html}.}
-
-\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2000]{NBR6034:2000}
-\abntrefinfo{ABNT}{ABNT}{2000}
-{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 14724}:
-  Informa{\c c}\~ao e documenta{\c c}\~ao --- referências.
-Rio de Janeiro, 2000.}
-
-\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2011]{NBR14724:2011}
-\abntrefinfo{ABNT}{ABNT}{2011}
-{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \emph{{NBR} 14724}:
-  Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos ---
-  apresenta{\c c}\~ao.
-Rio de Janeiro, 2011. 15~p.}
-
 \bibitem[{BARATA} et al. 2013]{6624228}
 \abntrefinfo{{BARATA} et al.}{{BARATA} et al.}{2013}
 {{BARATA}, G. et al. Engaging engineering students with gamification. In:
@@ -55,6 +35,12 @@ ISSN 2316-6533.
 Dispon{\'\i}vel em:
   \url{https://www.br-ie.org/pub/index.php/sbie/article/view/5338}.}
 
+\bibitem[Borges 2019]{Borges}
+\abntrefinfo{Borges}{BORGES}{2019}
+{BORGES, M. Avaliação de uma metodologia alternativa para a aprendizagem de
+  programação.
+09 2019.}
+
 \bibitem[Calixto 2016]{calixto}
 \abntrefinfo{Calixto}{CALIXTO}{2016}
 {CALIXTO, G. de L. Fatores relacionados ao ensino de programação: Uma
@@ -65,6 +51,11 @@ p. 1--82, 2016.}
 \abntrefinfo{Cardoso e Mara}{CARDOSO; MARA}{2013}
 {CARDOSO, G.~C.; MARA, V.~C. \emph{Sistema de banco de dados: Uma abordagem
   introdutória e aplicada}. 1. ed. [S.l.: s.n.], 2013.}
+
+\bibitem[Chou 2017]{chou2017actionable}
+\abntrefinfo{Chou}{CHOU}{2017}
+{CHOU, Y.-k. \emph{Actionable gamification: Beyond points, badges, and
+  leaderboards}. [S.l.]: Octalysis Media, 2017.}
 
 \bibitem[{COMBÉFIS}, {BERESNEVIČIUS} e {DAGIENĖ} 2016]{LearningProgramming}
 \abntrefinfo{{COMBÉFIS}, {BERESNEVIČIUS} e {DAGIENĖ}}{{COMBÉFIS};
@@ -112,6 +103,16 @@ Dispon{\'\i}vel em: \url{https://doi.org/10.1007/BF02504866}.}
 \abntrefinfo{Heuser}{HEUSER}{1998}
 {HEUSER, C.~A. \emph{Projeto de banco de dados}. 4. ed. [S.l.: s.n.], 1998.}
 
+\bibitem[Koliver, Dorneles e Casa 2004]{KOLIVER}
+\abntrefinfo{Koliver, Dorneles e Casa}{KOLIVER; DORNELES; CASA}{2004}
+{KOLIVER; DORNELES; CASA.
+p. 949--960, 2004.}
+
+\bibitem[Lee e Hammer 2011]{hammer}
+\abntrefinfo{Lee e Hammer}{LEE; HAMMER}{2011}
+{LEE, J.; HAMMER, J. Gamification in education: What, how, why bother?
+\emph{Academic Exchange Quarterly}, v.~15, p.~1--5, 01 2011.}
+
 \bibitem[{PEREIRA}, {COSTA} e {APARICIO} 2017]{7975788}
 \abntrefinfo{{PEREIRA}, {COSTA} e {APARICIO}}{{PEREIRA}; {COSTA};
   {APARICIO}}{2017}
@@ -128,6 +129,19 @@ ISSN 1544-3574.
 Dispon{\'\i}vel em:
   \url{http://doi-acm-org.ez54.periodicos.capes.gov.br/10.1145/950566.950596}.}
 
+\bibitem[Raposo e Dantas 2016]{raposo2016desafio}
+\abntrefinfo{Raposo e Dantas}{RAPOSO; DANTAS}{2016}
+{RAPOSO, E. H.~S.; DANTAS, V. O desafio da serpente-usando gamification para
+  motivar alunos em uma disciplina introdut{\'o}ria de programa{\c{c}}{\~a}o.
+  In:  \emph{Brazilian Symposium on Computers in Education (Simp{\'o}sio
+  Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)}. [S.l.: s.n.],
+  2016. v.~27, n.~1, p.~577.}
+
+\bibitem[Silva et al. 2014]{da2014gamificaccao}
+\abntrefinfo{Silva et al.}{SILVA et al.}{2014}
+{SILVA, A. R.~L. da et al. \emph{Gamifica{\c{c}}{\~a}o na educa{\c{c}}{\~a}o}.
+  [S.l.]: Pimenta Cultural, 2014.}
+
 \bibitem[Souza 2009]{de2009visualg}
 \abntrefinfo{Souza}{SOUZA}{2009}
 {SOUZA, C.~M. de. Visualg-ferramenta de apoio ao ensino de programação.
@@ -138,6 +152,15 @@ Dispon{\'\i}vel em:
 {THAIS, H. et al. Utilizando programação funcional em disciplinas
   introdutórias de computação.
 p. 3000--69077, 07 2002.}
+
+\bibitem[Tolomei 2017]{EaDF440}
+\abntrefinfo{Tolomei}{TOLOMEI}{2017}
+{TOLOMEI, B. A gamificação como estratégia de engajamento e motivação na
+  educação.
+\emph{EAD EM FOCO}, v.~7, n.~2, 2017.
+ISSN 2177-8310.
+Dispon{\'\i}vel em:
+  \url{http://eademfoco.cecierj.edu.br/index.php/Revista/article/view/440}.}
 
 \bibitem[Vieira, Junior e Vieira 2015]{vieira2015dificuldades}
 \abntrefinfo{Vieira, Junior e Vieira}{VIEIRA; JUNIOR; VIEIRA}{2015}

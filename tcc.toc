@@ -4,63 +4,59 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{16}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Contexto}{16}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Justificativa}{18}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Problema}{19}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}Objetivos}{19}{section.1.4}% 
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{13}{chapter.1}% 
+\contentsline {section}{\numberline {1.1}Contexto}{13}{section.1.1}% 
+\contentsline {section}{\numberline {1.2}Justificativa}{15}{section.1.2}% 
+\contentsline {section}{\numberline {1.3}Problema}{16}{section.1.3}% 
+\contentsline {section}{\numberline {1.4}Objetivos}{16}{section.1.4}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial te\IeC {\'o}rico}}{20}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Diagrama entidade-relacionamento}{20}{section.2.1}% 
-\contentsline {subsection}{\numberline {2.1.1}Entidade}{20}{subsection.2.1.1}% 
-\contentsline {subsection}{\numberline {2.1.2}Relacionamento}{20}{subsection.2.1.2}% 
-\contentsline {section}{\numberline {2.2}Diagrama L\IeC {\'o}gico}{21}{section.2.2}% 
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial te\IeC {\'o}rico}}{17}{chapter.2}% 
+\contentsline {section}{\numberline {2.1}Aprendizagem de programa\IeC {\c c}\IeC {\~a}o}{17}{section.2.1}% 
+\contentsline {section}{\numberline {2.2}Gamifica\IeC {\c c}\IeC {\~a}o}{17}{section.2.2}% 
+\contentsline {subsection}{\numberline {2.2.1}Gamifica\IeC {\c c}\IeC {\~a}o na Educa\IeC {\c c}\IeC {\~a}o}{18}{subsection.2.2.1}% 
+\contentsline {section}{\numberline {2.3}Diagrama entidade-relacionamento}{18}{section.2.3}% 
+\contentsline {subsection}{\numberline {2.3.1}Entidade}{19}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.2}Relacionamento}{19}{subsection.2.3.2}% 
+\contentsline {section}{\numberline {2.4}Diagrama L\IeC {\'o}gico}{20}{section.2.4}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Caracter\IeC {\'\i }sticas da ferramenta}}{22}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}Narrativa}{22}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Personagens}{22}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Aisha}{22}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Voxter}{22}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Lince}{22}{subsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.2.4}Amazona}{22}{subsection.3.2.4}% 
-\contentsline {subsection}{\numberline {3.2.5}Tymer}{22}{subsection.3.2.5}% 
-\contentsline {subsection}{\numberline {3.2.6}Scar}{22}{subsection.3.2.6}% 
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Caracter\IeC {\'\i }sticas da ferramenta}}{21}{chapter.3}% 
+\contentsline {section}{\numberline {3.1}Narrativa}{21}{section.3.1}% 
+\contentsline {section}{\numberline {3.2}Personagens}{21}{section.3.2}% 
+\contentsline {subsection}{\numberline {3.2.1}Aisha}{21}{subsection.3.2.1}% 
+\contentsline {subsection}{\numberline {3.2.2}Voxter}{23}{subsection.3.2.2}% 
+\contentsline {subsection}{\numberline {3.2.3}Lince}{24}{subsection.3.2.3}% 
+\contentsline {subsection}{\numberline {3.2.4}Amazona}{25}{subsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.2.5}Tymer}{26}{subsection.3.2.5}% 
+\contentsline {subsection}{\numberline {3.2.6}Scar}{27}{subsection.3.2.6}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Implementa\IeC {\c c}\IeC {\~a}o da solu\IeC {\c c}\IeC {\~a}o}}{27}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Modelagem de dados}{27}{section.4.1}% 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Elementos do P\IeC {\'o}s-Texto}}{29}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Refer\IeC {\^e}ncias Bibliogr\IeC {\'a}ficas}{29}{section.5.1}% 
-\contentsline {section}{\numberline {5.2}Anexos}{29}{section.5.2}% 
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Implementa\IeC {\c c}\IeC {\~a}o da solu\IeC {\c c}\IeC {\~a}o}}{28}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Modelagem de dados}{28}{section.4.1}% 
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{31}{section*.17}% 
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{30}{section*.11}% 
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{33}{section*.18}% 
+\contentsline {part}{\uppercase {Ap\^endices}}{32}{section*.12}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Ap\IeC {\^e}ndice}}{34}{appendix.A}% 
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Ap\IeC {\^e}ndice}}{33}{appendix.A}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Ap\IeC {\^e}ndice}}{35}{appendix.B}% 
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Ap\IeC {\^e}ndice}}{34}{appendix.B}% 
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{36}{section*.19}% 
+\contentsline {part}{\uppercase {Anexos}}{35}{section*.13}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{37}{appendix.anexochapback.1}% 
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{36}{appendix.anexochapback.1}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{38}{appendix.anexochapback.2}% 
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{37}{appendix.anexochapback.2}% 
