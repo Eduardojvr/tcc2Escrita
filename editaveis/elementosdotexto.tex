@@ -159,7 +159,12 @@ uma vez que a utilização de mecanismos como por exemplo o sistema de pontuaç�
 a utilização de elementos e característica de jogos devem provocar impactos tanto emocionais quanto sociais nos indivíduos para que eles tenham um aprendizado
 efetivo. 
 
-\section{Diagrama entidade-relacionamento}
+\section{Modelagem de banco de dados}
+
+Existem diversas formas de se representar graficamente a forma como uma base de dados deverá estar consolidada em um banco de
+dados após sua implementação. Nesta seção, apresenta-se uma forma específica de modelagem de base de dados, bem como suas características.
+
+\subsection{Diagrama entidade-relacionamento}
 Segundo \citeonline{projetobancodedados} , a abordagem mais utilizada e conhecida é a 
 entidade-relacionamento (ER) onde o modelo de dados é geralmente representado graficamente através
 de um diagrama entidade-relacionamento (DER). Esta abordagem foi criada em 1976 por Peter Chen e
@@ -167,13 +172,13 @@ de um diagrama entidade-relacionamento (DER). Esta abordagem foi criada em 1976 
 
 A abordagem entidade-relacionamento é baseada em dois principais pilares que são apresentados em seguida.
 
-\subsection{Entidade}
+\subsubsection{Entidade}
 De acordo com \citeonline{projetobancodedados}, uma entidade, no modelo conceitual, representa um conjunto
 de objetos da realidade modelada. Seu principal objetivo é modelar de forma abstrata um banco de dados, onde
 se te interesse somente nos objetos sobre os quais deseja-se manter informações. No DER, uma entidade é representada
 por meio de um retângulo contendo o nome da entidade.
  
-\subsection{Relacionamento}
+\subsubsection{Relacionamento}
 Como apresentado por \citeonline{projetobancodedados}, o DER permite a especificar as propriedades dos objetos
 que serão armazenados no banco de dados, como por exemplo o relacionamento/associação entre os objetos. No DER,
 um relacionamento é representado por meio de um losango que são ligados por linhas aos retângulos que representam
@@ -198,8 +203,22 @@ de Peter Chen, as cardinalidade são apresentadas próximas às ligações de re
 mínima e máxima de objetos que podem participar do relacionamento. Tais características podem ser vistas 
 na figura \ref{figura1} \cite{sistemadebancos}.
 
-\section{Diagrama Lógico}
+\subsection{Diagrama Lógico}
+O diagrama lógico leva em consideração as limitações e implementa recursos como adequação de padrão e nomenclatura, define as
+chaves primárias e estrangeiras, normalização, integridade referencial, entre outras. Para o modelo lógico deve ser criado 
+levando em conta os exemplos de modelagem de dados criados no modelo conceitual \cite{sistemadebancos}.
 
+% Na figura \ref{figura2} é apresentado um exemplo simples de um diagrama lógico (DL). É possível notar 
+% no diagrama a existência dos atributos, seus tipos (tipos de dados), chaves entre outras características necessária para o correto
+% desenvolvimento da base de dados.
+
+% \begin{figure}[h]
+% 	\centering
+% 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/figura1.png}
+% 	\caption{Exemplo de DER}
+% 	Fonte: Autor
+% 	\label{figura2}
+% \end{figure}
 
 
 \chapter{Características da ferramenta}
