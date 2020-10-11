@@ -23,45 +23,45 @@ Warning--campo title vazio em KOLIVER
 | Em caso de dúvidas ou problemas com este estilo procure |
 | http://www.abntex.net.br/                               |
 +---------------------------------------------------------+
-You've used 25 entries,
+You've used 27 entries,
             6714 wiz_defined-function locations,
-            1352 strings with 14422 characters,
-and the built_in function-call counts, 28856 in all, are:
-= -- 2950
-> -- 751
-< -- 505
-+ -- 777
-- -- 225
-* -- 1932
-:= -- 3691
-add.period$ -- 97
-call.type$ -- 25
-change.case$ -- 258
-chr.to.int$ -- 64
-cite$ -- 25
-duplicate$ -- 2350
-empty$ -- 1442
-format.name$ -- 1073
-if$ -- 6160
+            1362 strings with 14671 characters,
+and the built_in function-call counts, 30352 in all, are:
+= -- 3049
+> -- 808
+< -- 509
++ -- 798
+- -- 242
+* -- 2041
+:= -- 3897
+add.period$ -- 103
+call.type$ -- 27
+change.case$ -- 278
+chr.to.int$ -- 69
+cite$ -- 27
+duplicate$ -- 2431
+empty$ -- 1556
+format.name$ -- 1157
+if$ -- 6515
 int.to.chr$ -- 0
 int.to.str$ -- 0
-missing$ -- 441
-newline$ -- 134
-num.names$ -- 120
-pop$ -- 585
+missing$ -- 478
+newline$ -- 143
+num.names$ -- 130
+pop$ -- 633
 preamble$ -- 1
-purify$ -- 99
+purify$ -- 107
 quote$ -- 0
-skip$ -- 2426
+skip$ -- 2505
 stack$ -- 1
-substring$ -- 1159
-swap$ -- 939
-text.length$ -- 43
+substring$ -- 1198
+swap$ -- 976
+text.length$ -- 46
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 4
 warning$ -- 1
-while$ -- 180
+while$ -- 193
 width$ -- 0
-write$ -- 398
+write$ -- 429
 (There was 1 warning)
