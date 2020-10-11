@@ -23,18 +23,22 @@
 \contentsline {section}{\numberline {2.4}\textit {Core drives}}{20}{section.2.4}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{21}{chapter.3}% 
-\contentsline {subsection}{\numberline {3.0.1}Requisitos}{21}{subsection.3.0.1}% 
-\contentsline {subsection}{\numberline {3.0.2}Caracter\IeC {\'\i }sticas da ferramenta}{21}{subsection.3.0.2}% 
-\contentsline {section}{\numberline {3.1}Narrativa}{22}{section.3.1}% 
-\contentsline {section}{\numberline {3.2}Personagens}{22}{section.3.2}% 
-\contentsline {subsection}{\numberline {3.2.1}Aisha}{22}{subsection.3.2.1}% 
-\contentsline {subsection}{\numberline {3.2.2}Voxter}{24}{subsection.3.2.2}% 
-\contentsline {subsection}{\numberline {3.2.3}Lince}{25}{subsection.3.2.3}% 
-\contentsline {subsection}{\numberline {3.2.4}Amazona}{26}{subsection.3.2.4}% 
-\contentsline {subsection}{\numberline {3.2.5}Tymer}{27}{subsection.3.2.5}% 
-\contentsline {subsection}{\numberline {3.2.6}Scar}{28}{subsection.3.2.6}% 
+\contentsline {section}{\numberline {3.1}Requisitos}{21}{section.3.1}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {}}{29}{chapter.4}% 
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Caracter\IeC {\'\i }sticas da ferramenta}}{22}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Narrativa}{22}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Personagens}{22}{section.4.2}% 
+\contentsline {subsection}{\numberline {4.2.1}Aisha}{22}{subsection.4.2.1}% 
+\contentsline {subsection}{\numberline {4.2.2}Voxter}{24}{subsection.4.2.2}% 
+\contentsline {subsection}{\numberline {4.2.3}Lince}{25}{subsection.4.2.3}% 
+\contentsline {subsection}{\numberline {4.2.4}Amazona}{26}{subsection.4.2.4}% 
+\contentsline {subsection}{\numberline {4.2.5}Tymer}{27}{subsection.4.2.5}% 
+\contentsline {subsection}{\numberline {4.2.6}Scar}{28}{subsection.4.2.6}% 
+\contentsline {section}{\numberline {4.3}Quest\IeC {\~o}es}{28}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}N\IeC {\'\i }veis}{29}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}Desafios}{29}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Jogador contra Jogador}{29}{subsection.4.5.1}% 
+\contentsline {subsection}{\numberline {4.5.2}Desafio individual}{29}{subsection.4.5.2}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o t\IeC {\'e}cnica}}{30}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}Modelagem de dados}{30}{section.5.1}% 

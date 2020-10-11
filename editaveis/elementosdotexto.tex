@@ -232,7 +232,7 @@ Neste capítulo, são apresentados com detahes o passo a passo realizado para a 
 de programação gamificada.
 
 
-\subsection{Requisitos}
+\section{Requisitos}
 
 Tendo como base a pesquisa realizada na primeira parte deste trabalho, nesta seção, são apresentados os requisitos implementados na construção da 
 ferramenta.
@@ -252,7 +252,7 @@ Na tabela a seguir, é apresentado uma comparação entre os requsitos levantado
 	RF 02 & Ativar/desativar perfil de jogadores & Sim \\ \hline
 	RF 03 & Rankeamento de jogadores & Sim\\ \hline
 	RF 04 & CRUD de disciplinas & Não\\ \hline
-	RF 05 & CRUD de turmas & Sim\\ \hline
+	RF 05 & CRUD de turmas & Não\\ \hline
 	RF 06 & CRUD de conteúdos para estudo & Sim\\ \hline
 	RF 07 & CRUD de desafios & Sim\\ \hline
 	RF 08 & Sistema de recompensas (pontuação) & Sim\\ \hline
@@ -274,7 +274,7 @@ Na tabela a seguir, é apresentado uma comparação entre os requsitos levantado
 	% \small{Quadro 2 - Requisitos funcionais} 
 \end{table}
 
-\subsection{Características da ferramenta}
+\chapter{Características da ferramenta}
 
 Neste capítulo são apresentados os elementos característicos da ferramenta como: personagens, narrativa, temática entre outros 
 elementos que foram pensados como forma de gamificar as atividades de aprendizagem de programação.
@@ -358,7 +358,35 @@ Os personagens são apresentados a seguir.
 	\label{scar}
 \end{figure}
 
-\chapter{}
+\section{Questões}
+Existem diferentes tipos de questões que podem ser solucionados pelo jogador. A correção destas, são feitas automaticamente
+pelo sistema de acordo com respostas pré cadastradas na base de dados.
+
+Os  tipos de questões são:
+
+\begin{itemize}
+	\item Verdadeiro ou falso;
+	\item Lacunas;
+	\item Múltipla escolha;
+\end{itemize}
+
+Cada resposta contabilizada como correta, são adicionados 10 pontos à pontuação total do jogador. Não há limites de tentativas
+de solucionar as questões.
+
+Para cada tentativa de resposta julgada como incorreta, é apresentado a alternativa correta para aquela questão.
+
+\section{Níveis}
+
+\section{Desafios}
+
+\subsection{Jogador contra Jogador}
+
+\subsection{Desafio individual}
+Os desafios individuais consistem em resolver diferentes tipos de  desafios pré cadastrados no sistema que, uma vez 
+solucionados e avaliados pelo administrador do sistema e, tendo sido julgado por este como correto, é adicionado à
+pontuação total do jogador mais 100 pontos. Os  desafios variam de simples respostas até implementação de códigos.
+
+
 
 \chapter{Solução técnica}
 
