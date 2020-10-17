@@ -100,8 +100,6 @@ Para alcançar o objetivo geral, foram definidos os seguintes objetivos específ
 
 \chapter{Referencial teórico}
 
-referencial
-
 \section{Aprendizagem de programação}
 De acordo com \citeonline{KOLIVER}, disciplinas introdutórias de programação são, em sua maioria, problemáticas e costumam apresentar
 altos índices de desistência e reprovações. Um dos motivos para tal ocorrência se dá pela falta de preparo que se espera que alunos
@@ -577,14 +575,103 @@ levando em conta os exemplos de modelagem de dados criados no modelo conceitual 
 % 	Fonte: Autor
 % 	\label{figura2}
 % \end{figure}
-\section{\textit{Core drives}}
-
-core drives
 
 \chapter{Metodologia}
 
 Neste capítulo, são apresentados com detahes o passo a passo realizado para a construção de uma ferramenta web de apoio ao ensino e aprendizagem 
 de programação gamificada.
+
+\section{\textit{Core drives}}
+
+	Os \textit{core drives} implementados no desenvolvimento da aplicação, foram definidos a partir de um questionário que teve como objetivo identificar as características 
+em jogos que mais atraem os alunos/jogadores.
+
+	A partir de análises realizadas no conjunto de dados obtidos, identificou-se predominantemente os \textit{core drives} apresentados na tabela \ref{core}.
+
+	\begin{table}[h]
+		\centering
+		\resizebox{.9\textwidth}{!}{%
+		\begin{tabular}{|p{7cm}|p{7cm}|}
+		\hline
+		\textbf{\textit{Core drive}} & \textbf{Técnicas} \\ \hline
+		Desenvolvimento e conquista & Pontos, \textit{ranking}, lista de desafios e barra de progresso.  \\ \hline
+		Empoderamento e \textit{feedback} & Desbloqueio de marcos e \textit{feedback} \\ \hline
+		Significado épico e chamado &  Narrativa e elitismo\\ \hline
+		Prevenção e perda & Perda de pontos e perda de progresso \\ \hline
+		\end{tabular}%
+		}
+		\caption{\textit{Core drives} implementados}
+		\label{core}
+		Fonte: Autor
+		% \small{Quadro 1 - Classificação das questões, \citeonline{raposo2016desafio}} 
+	\end{table}
+
+\subsection{Desenvolvimento e conquista}
+\subsubsection{Pontos}
+	A medida que os alunos/jogadores realizam alguma entre a variedade de atividades disponíveis na ferramenta, o mesmo adquire pontos.
+As atividades possuem diferentes pontuações de acordo com sua natureza e dificuldade. Na tabela \ref{pontos}, são apresentados as atividades e suas
+respectivas pontuações.
+
+\begin{table}[h]
+	\centering
+	\resizebox{.9\textwidth}{!}{%
+	\begin{tabular}{|p{7cm}|p{3cm}|}
+	\hline
+	\textbf{Atividade} & \textbf{Pontuação} \\ \hline
+	Questões Quiz & 10  \\ \hline
+	Desafios (jogador vs PC) & 100\\ \hline
+	Criar um desafio para outtro jogador (jogador vs jogador) &  100\\ \hline
+	Responder desafios de outros jogadores (jogador vs jogador) &  100\\ \hline
+	Avaliar resposta do desafiado (jogador vs jogador) & 100 \\ \hline
+	\end{tabular}%
+	}
+	\caption{Pontuações}
+	\label{pontos}
+	Fonte: Autor
+	% \small{Quadro 1 - Classificação das questões, \citeonline{raposo2016desafio}} 
+\end{table}
+
+\pagebreak 
+
+
+\subsubsection{\textit{Ranking}}
+	A ferramenta fornece uma página dedicada à apresentar as pontuações dos jogadores bem como seus nomes, matrículas e posições, desta forma, todos os jogadores/alunos
+ têm a noção do seu progresso em relação aos demais usuários do sistema. Tornando, desta forma, a busca por pontuações e usp dos módulos disponíveis mais competitivos.
+
+\subsubsection{Lista de desafios}
+	O sistema possui um módulo destinado inteiramente para desafios que podem ser cadastrados pelo administrador do sistema ou em casos de desafios jogador vs jogador, os próprios
+ usuários da ferramenta podem criar seus próprios desafios.
+
+\subsubsection{Barra de progresso}
+
+	A ferramenta possui uma página de perfil contendo diversas informações do jogador, isso inclui uma barra de progresso que mostra a evolução do jogador na utilização da
+ ferramenta e seu avanço nos doze níveis disponíveis na mesma.
+
+ \subsection{Empoderamento \textit{feedback}}
+	 \subsubsection{Desbloqueio de marcos}
+	A ferramenta possui um sistema de divisão de conteúdos por níveis. No total existem 12 níveis que vão sendo desbloqueados a medida que os jogadores conquistam determinadas pontuações.
+
+	Na tabela \ref{pontos} são apresentadas as pontuações necessárias para desbloquear diferentes níveis.
+
+
+\begin{table}[h]
+	\centering
+	\resizebox{.9\textwidth}{!}{%
+	\begin{tabular}{|p{7cm}|p{3cm}|}
+	\hline
+	\textbf{Atividade} & \textbf{Pontuação} \\ \hline
+	Questões Quiz & 10  \\ \hline
+	Desafios (jogador vs PC) & 100\\ \hline
+	Criar um desafio para outtro jogador (jogador vs jogador) &  100\\ \hline
+	Responder desafios de outros jogadores (jogador vs jogador) &  100\\ \hline
+	Avaliar resposta do desafiado (jogador vs jogador) & 100 \\ \hline
+	\end{tabular}%
+	}
+	\caption{Pontuações}
+	\label{pontos}
+	Fonte: Autor
+	% \small{Quadro 1 - Classificação das questões, \citeonline{raposo2016desafio}} 
+\end{table}
 
 
 \section{Requisitos}
