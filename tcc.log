@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.12)  17 OCT 2020 14:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.12)  17 OCT 2020 15:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -986,76 +986,80 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34] [35]
-<figuras/aisha.png, id=588, 295.1025pt x 619.31375pt>
+[34]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35] [36]
+<figuras/aisha.png, id=593, 295.1025pt x 619.31375pt>
 File: figuras/aisha.png Graphic file (type png)
 <use figuras/aisha.png>
-Package pdftex.def Info: figuras/aisha.png  used on input line 742.
+Package pdftex.def Info: figuras/aisha.png  used on input line 748.
 (pdftex.def)             Requested size: 147.55087pt x 309.65611pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[36
+[37
 
-] [37 </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/aisha.png>]
-<figuras/voxter.png, id=599, 288.07625pt x 636.3775pt>
+] [38 </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/aisha.png>]
+<figuras/voxter.png, id=603, 288.07625pt x 636.3775pt>
 File: figuras/voxter.png Graphic file (type png)
 <use figuras/voxter.png>
-Package pdftex.def Info: figuras/voxter.png  used on input line 753.
+Package pdftex.def Info: figuras/voxter.png  used on input line 759.
 (pdftex.def)             Requested size: 144.03777pt x 318.18797pt.
- [38
-
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/voxter.png>]
-<figuras/lince.png, id=605, 291.0875pt x 556.0775pt>
-File: figuras/lince.png Graphic file (type png)
-<use figuras/lince.png>
-Package pdftex.def Info: figuras/lince.png  used on input line 765.
-(pdftex.def)             Requested size: 145.54338pt x 278.03807pt.
  [39
 
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/lince.png>]
-<figuras/amazona.png, id=611, 293.095pt x 452.69125pt>
-File: figuras/amazona.png Graphic file (type png)
-<use figuras/amazona.png>
-Package pdftex.def Info: figuras/amazona.png  used on input line 776.
-(pdftex.def)             Requested size: 146.54713pt x 226.34506pt.
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/voxter.png>]
+<figuras/lince.png, id=609, 291.0875pt x 556.0775pt>
+File: figuras/lince.png Graphic file (type png)
+<use figuras/lince.png>
+Package pdftex.def Info: figuras/lince.png  used on input line 771.
+(pdftex.def)             Requested size: 145.54338pt x 278.03807pt.
  [40
 
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/amazona.png>]
-<figuras/tymer.png, id=617, 287.0725pt x 594.22pt>
-File: figuras/tymer.png Graphic file (type png)
-<use figuras/tymer.png>
-Package pdftex.def Info: figuras/tymer.png  used on input line 787.
-(pdftex.def)             Requested size: 143.53589pt x 297.10927pt.
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/lince.png>]
+<figuras/amazona.png, id=615, 293.095pt x 452.69125pt>
+File: figuras/amazona.png Graphic file (type png)
+<use figuras/amazona.png>
+Package pdftex.def Info: figuras/amazona.png  used on input line 782.
+(pdftex.def)             Requested size: 146.54713pt x 226.34506pt.
  [41
 
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/tymer.png>]
-<figuras/scar.png, id=623, 288.07625pt x 566.115pt>
-File: figuras/scar.png Graphic file (type png)
-<use figuras/scar.png>
-Package pdftex.def Info: figuras/scar.png  used on input line 797.
-(pdftex.def)             Requested size: 144.03777pt x 283.05681pt.
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/amazona.png>]
+<figuras/tymer.png, id=621, 287.0725pt x 594.22pt>
+File: figuras/tymer.png Graphic file (type png)
+<use figuras/tymer.png>
+Package pdftex.def Info: figuras/tymer.png  used on input line 793.
+(pdftex.def)             Requested size: 143.53589pt x 297.10927pt.
  [42
 
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/scar.png>] [43]
-<figuras/der.png, id=634, 1166.3575pt x 1250.6725pt>
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/tymer.png>]
+<figuras/scar.png, id=628, 288.07625pt x 566.115pt>
+File: figuras/scar.png Graphic file (type png)
+<use figuras/scar.png>
+Package pdftex.def Info: figuras/scar.png  used on input line 803.
+(pdftex.def)             Requested size: 144.03777pt x 283.05681pt.
+ [43
+
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/scar.png>] [44]
+<figuras/der.png, id=638, 1166.3575pt x 1250.6725pt>
 File: figuras/der.png Graphic file (type png)
 <use figuras/der.png>
-Package pdftex.def Info: figuras/der.png  used on input line 871.
+Package pdftex.def Info: figuras/der.png  used on input line 877.
 (pdftex.def)             Requested size: 466.53474pt x 500.26015pt.
 
-Overfull \hbox (11.53474pt too wide) in paragraph at lines 871--872
+Overfull \hbox (11.53474pt too wide) in paragraph at lines 877--878
  [][] 
  []
 
-<figuras/dl.png, id=635, 1475.5125pt x 1284.8pt>
+<figuras/dl.png, id=639, 1475.5125pt x 1284.8pt>
 File: figuras/dl.png Graphic file (type png)
 <use figuras/dl.png>
-Package pdftex.def Info: figuras/dl.png  used on input line 880.
+Package pdftex.def Info: figuras/dl.png  used on input line 886.
 (pdftex.def)             Requested size: 472.17365pt x 411.14441pt.
 
-Overfull \hbox (17.17365pt too wide) in paragraph at lines 880--881
+Overfull \hbox (17.17365pt too wide) in paragraph at lines 886--887
  [][] 
  []
 
@@ -1066,37 +1070,37 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
- [44
+ [45
 
- </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/der.png>] [45 </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/dl.png>]
+ </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/der.png>] [46 </Users/eduardorodrigues/Desktop/tcc2Escrita/figuras/dl.png>]
 bibitemlist
-[46
+[47
 
-]) (/Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/apendices.tex [47]
+]) (/Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/apendices.tex [48]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 4.
 
-[48
+[49
 
 
-] [49
+] [50
 
-]) (/Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/anexos.tex [50
+]) (/Users/eduardorodrigues/Desktop/tcc2Escrita/editaveis/anexos.tex [51
 
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 4.
 
-[51
+[52
 
 
-] [52
+] [53
 
 ]) (/Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.ind) 
 AED: lastpage setting LastPage
-[53
+[54
 
 ]
 \tf@lof=\write6
@@ -1122,18 +1126,18 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 13032 strings out of 492616
- 196945 string characters out of 6129481
+ 13033 strings out of 492616
+ 196952 string characters out of 6129481
  332734 words of memory out of 5000000
  16402 multiletter control sequences out of 15000+600000
  102815 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,13n,38p,476b,616s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsso17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.pdf (54 pages, 3679368 bytes).
+Output written on /Users/eduardorodrigues/Desktop/tcc2Escrita/tcc.pdf (55 pages, 3680036 bytes).
 PDF statistics:
- 1068 PDF objects out of 1200 (max. 8388607)
- 951 compressed objects within 10 object streams
- 191 named destinations out of 1000 (max. 500000)
+ 1073 PDF objects out of 1200 (max. 8388607)
+ 955 compressed objects within 10 object streams
+ 192 named destinations out of 1000 (max. 500000)
  741 words of extra memory for PDF output out of 10000 (max. 10000000)
 
