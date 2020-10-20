@@ -55,23 +55,28 @@
 \contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{34}{subsubsection.3.1.2.1}% 
 \contentsline {section}{\numberline {3.2}Requisitos}{35}{section.3.2}% 
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Caracter\IeC {\'\i }sticas da ferramenta}}{37}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Narrativa}{37}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Personagens}{37}{section.4.2}% 
-\contentsline {subsection}{\numberline {4.2.1}Aisha}{37}{subsection.4.2.1}% 
-\contentsline {subsection}{\numberline {4.2.2}Voxter}{39}{subsection.4.2.2}% 
-\contentsline {subsection}{\numberline {4.2.3}Lince}{40}{subsection.4.2.3}% 
-\contentsline {subsection}{\numberline {4.2.4}Amazona}{41}{subsection.4.2.4}% 
-\contentsline {subsection}{\numberline {4.2.5}Tymer}{42}{subsection.4.2.5}% 
-\contentsline {subsection}{\numberline {4.2.6}Scar}{43}{subsection.4.2.6}% 
-\contentsline {section}{\numberline {4.3}Quest\IeC {\~o}es}{43}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}\textit {Levels}}{44}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}Desafios}{44}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Jogador contra Jogador}{44}{subsection.4.5.1}% 
-\contentsline {subsection}{\numberline {4.5.2}Desafio individual}{44}{subsection.4.5.2}% 
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {5}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o t\IeC {\'e}cnica}}{45}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}Modelagem de dados}{45}{section.5.1}% 
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o proposta}}{37}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Escolha das ferramentas}{37}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}Arquitetura}{37}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Desenvolvimento cascata}{37}{section.4.3}% 
+\contentsline {section}{\numberline {4.4}\textit {Backend}}{37}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}\textit {Frontend}}{37}{section.4.5}% 
+\contentsline {section}{\numberline {4.6}Hospedagem}{37}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}Testes}{37}{section.4.7}% 
+\contentsline {section}{\numberline {4.8}Modelagem de dados}{37}{section.4.8}% 
+\contentsline {section}{\numberline {4.9}Narrativa}{37}{section.4.9}% 
+\contentsline {section}{\numberline {4.10}Personagens}{37}{section.4.10}% 
+\contentsline {subsection}{\numberline {4.10.1}Aisha}{38}{subsection.4.10.1}% 
+\contentsline {subsection}{\numberline {4.10.2}Voxter}{41}{subsection.4.10.2}% 
+\contentsline {subsection}{\numberline {4.10.3}Lince}{42}{subsection.4.10.3}% 
+\contentsline {subsection}{\numberline {4.10.4}Amazona}{43}{subsection.4.10.4}% 
+\contentsline {subsection}{\numberline {4.10.5}Tymer}{44}{subsection.4.10.5}% 
+\contentsline {subsection}{\numberline {4.10.6}Scar}{45}{subsection.4.10.6}% 
+\contentsline {section}{\numberline {4.11}Quest\IeC {\~o}es}{45}{section.4.11}% 
+\contentsline {section}{\numberline {4.12}\textit {Levels}}{46}{section.4.12}% 
+\contentsline {section}{\numberline {4.13}Desafios}{46}{section.4.13}% 
+\contentsline {subsection}{\numberline {4.13.1}Jogador contra Jogador}{46}{subsection.4.13.1}% 
+\contentsline {subsection}{\numberline {4.13.2}Desafio individual}{46}{subsection.4.13.2}% 
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{47}{section*.11}% 
