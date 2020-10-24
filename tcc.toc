@@ -5,103 +5,103 @@
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdu\IeC {\c c}\IeC {\~a}o}}{14}{chapter.1}% 
-\contentsline {section}{\numberline {1.1}Contexto}{14}{section.1.1}% 
-\contentsline {section}{\numberline {1.2}Justificativa}{16}{section.1.2}% 
-\contentsline {section}{\numberline {1.3}Problema}{17}{section.1.3}% 
-\contentsline {section}{\numberline {1.4}Objetivos}{17}{section.1.4}% 
+\contentsline {chapter}{\chapternumberline {1}\MakeTextUppercase {Introdução}}{14}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Contexto}{14}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Justificativa}{16}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Problema}{17}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objetivos}{17}{section.1.4}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial te\IeC {\'o}rico}}{18}{chapter.2}% 
-\contentsline {section}{\numberline {2.1}Aprendizagem de programa\IeC {\c c}\IeC {\~a}o}{18}{section.2.1}% 
-\contentsline {section}{\numberline {2.2}Gamifica\IeC {\c c}\IeC {\~a}o}{18}{section.2.2}% 
-\contentsline {subsection}{\numberline {2.2.1}Gamifica\IeC {\c c}\IeC {\~a}o na Educa\IeC {\c c}\IeC {\~a}o}{19}{subsection.2.2.1}% 
-\contentsline {section}{\numberline {2.3}\textit {Framework Octalysis}}{19}{section.2.3}% 
-\contentsline {subsection}{\numberline {2.3.1}Significado \IeC {\'e}pico e chamado}{20}{subsection.2.3.1}% 
-\contentsline {subsection}{\numberline {2.3.2}Desenvolvimento e Conquista}{21}{subsection.2.3.2}% 
-\contentsline {subsection}{\numberline {2.3.3}Empoderamento e feedback}{22}{subsection.2.3.3}% 
-\contentsline {subsection}{\numberline {2.3.4}Propriedade e posse}{22}{subsection.2.3.4}% 
-\contentsline {subsection}{\numberline {2.3.5}Influ\IeC {\^e}ncia e relacionamento social}{23}{subsection.2.3.5}% 
-\contentsline {subsection}{\numberline {2.3.6}Escassez e impaci\IeC {\^e}ncia}{23}{subsection.2.3.6}% 
-\contentsline {subsection}{\numberline {2.3.7}Imprevisibilidade e curiosidade}{24}{subsection.2.3.7}% 
-\contentsline {subsection}{\numberline {2.3.8}Preven\IeC {\c c}\IeC {\~a}o e perda}{24}{subsection.2.3.8}% 
-\contentsline {section}{\numberline {2.4}Elementos motivacionais: Oct\IeC {\'o}gono}{24}{section.2.4}% 
-\contentsline {subsection}{\numberline {2.4.1}Divis\IeC {\~a}o dos motivadores de acordo com sua natureza}{25}{subsection.2.4.1}% 
-\contentsline {subsection}{\numberline {2.4.2}Gamifica\IeC {\c c}\IeC {\~a}o \textit {White Hat} e \textit {Black Hat}}{25}{subsection.2.4.2}% 
-\contentsline {subsection}{\numberline {2.4.3}N\IeC {\'\i }veis \textit {Octalysis}}{26}{subsection.2.4.3}% 
-\contentsline {subsubsection}{\numberline {2.4.3.1}N\IeC {\'\i }vel 1}{26}{subsubsection.2.4.3.1}% 
-\contentsline {subsubsection}{\numberline {2.4.3.2}N\IeC {\'\i }vel 2}{27}{subsubsection.2.4.3.2}% 
-\contentsline {subsubsection}{\numberline {2.4.3.3}N\IeC {\'\i }vel 3}{28}{subsubsection.2.4.3.3}% 
-\contentsline {paragraph}{\numberline {2.4.3.3.1}\textit {Design} de gamifica\IeC {\c c}\IeC {\~a}o: Octalysis e Bartle}{28}{paragraph.2.4.3.3.1}% 
-\contentsline {subsubsection}{\numberline {2.4.3.4}Perfis de Jogadores}{28}{subsubsection.2.4.3.4}% 
-\contentsline {paragraph}{\numberline {2.4.3.4.1}Predadores (\textit {Killers})}{28}{paragraph.2.4.3.4.1}% 
-\contentsline {paragraph}{\numberline {2.4.3.4.2}Realizadores (\textit {Achievers})}{28}{paragraph.2.4.3.4.2}% 
-\contentsline {paragraph}{\numberline {2.4.3.4.3}Exploradores (\textit {Explorers})}{28}{paragraph.2.4.3.4.3}% 
-\contentsline {paragraph}{\numberline {2.4.3.4.4}Socializadores (\textit {Socializers})}{29}{paragraph.2.4.3.4.4}% 
-\contentsline {subsubsection}{\numberline {2.4.3.5}Rela\IeC {\c c}\IeC {\~a}o entre \textit {Core drives} e Perfis de jogadores}{29}{subsubsection.2.4.3.5}% 
-\contentsline {section}{\numberline {2.5}Modelagem de banco de dados}{31}{section.2.5}% 
-\contentsline {subsection}{\numberline {2.5.1}Diagrama entidade-relacionamento}{31}{subsection.2.5.1}% 
-\contentsline {subsubsection}{\numberline {2.5.1.1}Entidade}{31}{subsubsection.2.5.1.1}% 
-\contentsline {subsubsection}{\numberline {2.5.1.2}Relacionamento}{31}{subsubsection.2.5.1.2}% 
-\contentsline {subsection}{\numberline {2.5.2}Diagrama L\IeC {\'o}gico}{32}{subsection.2.5.2}% 
+\contentsline {chapter}{\chapternumberline {2}\MakeTextUppercase {Referencial teórico}}{18}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Aprendizagem de programação}{18}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Gamificação}{18}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Gamificação na Educação}{19}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}\textit {Framework Octalysis}}{19}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Significado épico e chamado}{20}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Desenvolvimento e Conquista}{21}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Empoderamento e feedback}{22}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}Propriedade e posse}{22}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Influência e relacionamento social}{23}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Escassez e impaciência}{23}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Imprevisibilidade e curiosidade}{24}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}Prevenção e perda}{24}{subsection.2.3.8}%
+\contentsline {section}{\numberline {2.4}Elementos motivacionais: Octógono}{24}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Divisão dos motivadores de acordo com sua natureza}{25}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Gamificação \textit {White Hat} e \textit {Black Hat}}{25}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Níveis \textit {Octalysis}}{26}{subsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.3.1}Nível 1}{26}{subsubsection.2.4.3.1}%
+\contentsline {subsubsection}{\numberline {2.4.3.2}Nível 2}{27}{subsubsection.2.4.3.2}%
+\contentsline {subsubsection}{\numberline {2.4.3.3}Nível 3}{28}{subsubsection.2.4.3.3}%
+\contentsline {paragraph}{\numberline {2.4.3.3.1}\textit {Design} de gamificação: Octalysis e Bartle}{28}{paragraph.2.4.3.3.1}%
+\contentsline {subsubsection}{\numberline {2.4.3.4}Perfis de Jogadores}{28}{subsubsection.2.4.3.4}%
+\contentsline {paragraph}{\numberline {2.4.3.4.1}Predadores (\textit {Killers})}{28}{paragraph.2.4.3.4.1}%
+\contentsline {paragraph}{\numberline {2.4.3.4.2}Realizadores (\textit {Achievers})}{28}{paragraph.2.4.3.4.2}%
+\contentsline {paragraph}{\numberline {2.4.3.4.3}Exploradores (\textit {Explorers})}{28}{paragraph.2.4.3.4.3}%
+\contentsline {paragraph}{\numberline {2.4.3.4.4}Socializadores (\textit {Socializers})}{29}{paragraph.2.4.3.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.3.5}Relação entre \textit {Core drives} e Perfis de jogadores}{29}{subsubsection.2.4.3.5}%
+\contentsline {section}{\numberline {2.5}Modelagem de banco de dados}{31}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Diagrama entidade-relacionamento}{31}{subsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.1}Entidade}{31}{subsubsection.2.5.1.1}%
+\contentsline {subsubsection}{\numberline {2.5.1.2}Relacionamento}{31}{subsubsection.2.5.1.2}%
+\contentsline {subsection}{\numberline {2.5.2}Diagrama Lógico}{32}{subsection.2.5.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{33}{chapter.3}% 
-\contentsline {section}{\numberline {3.1}\textit {Core drives}}{33}{section.3.1}% 
-\contentsline {subsection}{\numberline {3.1.1}Desenvolvimento e conquista}{33}{subsection.3.1.1}% 
-\contentsline {subsubsection}{\numberline {3.1.1.1}Pontos}{33}{subsubsection.3.1.1.1}% 
-\contentsline {subsubsection}{\numberline {3.1.1.2}\textit {Ranking}}{34}{subsubsection.3.1.1.2}% 
-\contentsline {subsubsection}{\numberline {3.1.1.3}Lista de desafios}{34}{subsubsection.3.1.1.3}% 
-\contentsline {subsubsection}{\numberline {3.1.1.4}Barra de progresso}{34}{subsubsection.3.1.1.4}% 
-\contentsline {subsection}{\numberline {3.1.2}Empoderamento \textit {feedback}}{34}{subsection.3.1.2}% 
-\contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{34}{subsubsection.3.1.2.1}% 
-\contentsline {section}{\numberline {3.2}Requisitos}{35}{section.3.2}% 
+\contentsline {chapter}{\chapternumberline {3}\MakeTextUppercase {Metodologia}}{33}{chapter.3}%
+\contentsline {section}{\numberline {3.1}\textit {Core drives}}{33}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Desenvolvimento e conquista}{33}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Pontos}{33}{subsubsection.3.1.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.2}\textit {Ranking}}{34}{subsubsection.3.1.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Lista de desafios}{34}{subsubsection.3.1.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.1.4}Barra de progresso}{34}{subsubsection.3.1.1.4}%
+\contentsline {subsection}{\numberline {3.1.2}Empoderamento \textit {feedback}}{34}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{34}{subsubsection.3.1.2.1}%
+\contentsline {section}{\numberline {3.2}Requisitos}{35}{section.3.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Solu\IeC {\c c}\IeC {\~a}o proposta}}{37}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Escolha das ferramentas}{37}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}Arquitetura}{37}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Desenvolvimento cascata}{37}{section.4.3}% 
-\contentsline {section}{\numberline {4.4}\textit {Backend}}{37}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}\textit {Frontend}}{37}{section.4.5}% 
-\contentsline {section}{\numberline {4.6}Hospedagem}{37}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}Testes}{37}{section.4.7}% 
-\contentsline {section}{\numberline {4.8}Modelagem de dados}{37}{section.4.8}% 
-\contentsline {section}{\numberline {4.9}Narrativa}{37}{section.4.9}% 
-\contentsline {section}{\numberline {4.10}Personagens}{37}{section.4.10}% 
-\contentsline {subsection}{\numberline {4.10.1}Aisha}{38}{subsection.4.10.1}% 
-\contentsline {subsection}{\numberline {4.10.2}Voxter}{41}{subsection.4.10.2}% 
-\contentsline {subsection}{\numberline {4.10.3}Lince}{42}{subsection.4.10.3}% 
-\contentsline {subsection}{\numberline {4.10.4}Amazona}{43}{subsection.4.10.4}% 
-\contentsline {subsection}{\numberline {4.10.5}Tymer}{44}{subsection.4.10.5}% 
-\contentsline {subsection}{\numberline {4.10.6}Scar}{45}{subsection.4.10.6}% 
-\contentsline {section}{\numberline {4.11}Quest\IeC {\~o}es}{45}{section.4.11}% 
-\contentsline {section}{\numberline {4.12}\textit {Levels}}{46}{section.4.12}% 
-\contentsline {section}{\numberline {4.13}Desafios}{46}{section.4.13}% 
-\contentsline {subsection}{\numberline {4.13.1}Jogador contra Jogador}{46}{subsection.4.13.1}% 
-\contentsline {subsection}{\numberline {4.13.2}Desafio individual}{46}{subsection.4.13.2}% 
+\contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Solução proposta}}{37}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Escolha das ferramentas}{37}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Arquitetura}{37}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Desenvolvimento cascata}{37}{section.4.3}%
+\contentsline {section}{\numberline {4.4}\textit {Backend}}{37}{section.4.4}%
+\contentsline {section}{\numberline {4.5}\textit {Frontend}}{37}{section.4.5}%
+\contentsline {section}{\numberline {4.6}Hospedagem}{37}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Testes}{37}{section.4.7}%
+\contentsline {section}{\numberline {4.8}Modelagem de dados}{37}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Narrativa}{39}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Personagens}{40}{section.4.10}%
+\contentsline {subsection}{\numberline {4.10.1}Aisha}{40}{subsection.4.10.1}%
+\contentsline {subsection}{\numberline {4.10.2}Voxter}{41}{subsection.4.10.2}%
+\contentsline {subsection}{\numberline {4.10.3}Lince}{42}{subsection.4.10.3}%
+\contentsline {subsection}{\numberline {4.10.4}Amazona}{43}{subsection.4.10.4}%
+\contentsline {subsection}{\numberline {4.10.5}Tymer}{44}{subsection.4.10.5}%
+\contentsline {subsection}{\numberline {4.10.6}Scar}{45}{subsection.4.10.6}%
+\contentsline {section}{\numberline {4.11}Questões}{45}{section.4.11}%
+\contentsline {section}{\numberline {4.12}\textit {Levels}}{46}{section.4.12}%
+\contentsline {section}{\numberline {4.13}Desafios}{46}{section.4.13}%
+\contentsline {subsection}{\numberline {4.13.1}Jogador contra Jogador}{46}{subsection.4.13.1}%
+\contentsline {subsection}{\numberline {4.13.2}Desafio individual}{46}{subsection.4.13.2}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{47}{section*.11}% 
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{47}{section*.14}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{49}{section*.12}% 
+\contentsline {part}{\uppercase {Ap\^endices}}{49}{section*.15}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Ap\IeC {\^e}ndice}}{50}{appendix.A}% 
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Apêndice}}{50}{appendix.A}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Ap\IeC {\^e}ndice}}{51}{appendix.B}% 
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Apêndice}}{51}{appendix.B}%
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{52}{section*.13}% 
+\contentsline {part}{\uppercase {Anexos}}{52}{section*.16}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{53}{appendix.anexochapback.1}% 
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{53}{appendix.anexochapback.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{54}{appendix.anexochapback.2}% 
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{54}{appendix.anexochapback.2}%
