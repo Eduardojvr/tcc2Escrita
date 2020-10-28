@@ -11,6 +11,11 @@
   programação.
 09 2019.}
 
+\bibitem[Apache 2013]{tomcat}
+\abntrefinfo{Apache}{APACHE}{2013}
+{APACHE. \emph{Apache Tomcat}. 2013.
+Dispon{\'\i}vel em: \url{http://tomcat.apache.org/index.html}.}
+
 \bibitem[Arena e Schwartz 2014]{Arena2014}
 \abntrefinfo{Arena e Schwartz}{ARENA; SCHWARTZ}{2014}
 {ARENA, D.~A.; SCHWARTZ, D.~L. Experience and explanation: Using videogames to
@@ -19,6 +24,12 @@
   Aug 2014.
 ISSN 1573-1839.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1007/s10956-013-9483-3}.}
+
+\bibitem[Azure 2018]{MSF}
+\abntrefinfo{Azure}{AZURE}{2018}
+{AZURE, M. \emph{Estilo de arquitetura de N camadas}. 2018.
+Dispon{\'\i}vel em:
+  \url{https://docs.microsoft.com/pt-br/azure/architecture/guide/architecture-styles/n-tier}.}
 
 \bibitem[{BARATA} et al. 2013]{6624228}
 \abntrefinfo{{BARATA} et al.}{{BARATA} et al.}{2013}
@@ -40,11 +51,23 @@ ISSN 2316-6533.
 Dispon{\'\i}vel em:
   \url{https://www.br-ie.org/pub/index.php/sbie/article/view/5338}.}
 
+\bibitem[Bootstrap 2011]{bootstrap}
+\abntrefinfo{Bootstrap}{BOOTSTRAP}{2011}
+{BOOTSTRAP. \emph{Bootstrap}. 2011.
+Dispon{\'\i}vel em: \url{https://getbootstrap.com/}.}
+
 \bibitem[Borges 2019]{Borges}
 \abntrefinfo{Borges}{BORGES}{2019}
 {BORGES, M. Avaliação de uma metodologia alternativa para a aprendizagem de
   programação.
 09 2019.}
+
+\bibitem[Brooks Jr 2019]{brooks}
+\abntrefinfo{Brooks Jr}{BROOKS JR}{2019}
+{BROOKS JR, F. Essence and accidents of software engineering.
+\emph{IEEE Computer. April, 1987. vol. 20: pp. 10-19 : ill. includes
+  bibliography. -- See also Information Processing '86 edited by H.J. Kugler;
+  and Brooks, F.P. 'The Mythical Man-Month,' Addison-Wesley, 1978}, 10 2019.}
 
 \bibitem[Calixto 2016]{calixto}
 \abntrefinfo{Calixto}{CALIXTO}{2016}
@@ -71,6 +94,11 @@ p. 1--82, 2016.}
 Dispon{\'\i}vel em:
   \url{https://ioinformatics.org/journal/v10\_2016\_39\_60.pdf}.}
 
+\bibitem[Crockford 2019]{json}
+\abntrefinfo{Crockford}{CROCKFORD}{2019}
+{CROCKFORD, D. \emph{Introdução ao Json}. 2019.
+Dispon{\'\i}vel em: \url{https://www.json.org/json-pt.html}.}
+
 \bibitem[Dai, Zhao e Chen 2010]{inproceedings}
 \abntrefinfo{Dai, Zhao e Chen}{DAI; ZHAO; CHEN}{2010}
 {DAI, K.; ZHAO, Y.; CHEN, R. Research and practice on constructing the course
@@ -95,6 +123,18 @@ Dispon{\'\i}vel em:
 ISBN 978-1-4503-0816-8. Dispon{\'\i}vel em:
   \url{http://doi-acm-org.ez54.periodicos.capes.gov.br/10.1145/2181037.2181040}.}
 
+\bibitem[DevMedia 2007]{jdbc}
+\abntrefinfo{DevMedia}{DEVMEDIA}{2007}
+{DEVMEDIA. \emph{Instalar e configurar o driver JDBC para Mysql}. 2007.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/instalar-e-configurar-o-driver-jdbc-para-mysql/6719}.}
+
+\bibitem[DevMedia 2012]{maven}
+\abntrefinfo{DevMedia}{DEVMEDIA}{2012}
+{DEVMEDIA. \emph{Introdução ao Maven}. 2012.
+Dispon{\'\i}vel em:
+  \url{https://www.devmedia.com.br/introducao-ao-maven/25128}.}
+
 \bibitem[Dickey 2005]{Dickey2005}
 \abntrefinfo{Dickey}{DICKEY}{2005}
 {DICKEY, M.~D. Engaging by design: How engagement strategies in popular
@@ -104,9 +144,25 @@ ISBN 978-1-4503-0816-8. Dispon{\'\i}vel em:
 ISSN 1556-6501.
 Dispon{\'\i}vel em: \url{https://doi.org/10.1007/BF02504866}.}
 
+\bibitem[Eclipse 2019]{jersey}
+\abntrefinfo{Eclipse}{ECLIPSE}{2019}
+{ECLIPSE. \emph{Jersey}. 2019.
+Dispon{\'\i}vel em: \url{https://eclipse-ee4j.github.io/jersey/}.}
+
+\bibitem[Gilb e Finzi 1988]{gilb1988principles}
+\abntrefinfo{Gilb e Finzi}{GILB; FINZI}{1988}
+{GILB, T.; FINZI, S. \emph{Principles of software engineering management}.
+  [S.l.]: Addison-wesley Reading, MA, 1988. v.~11.}
+
 \bibitem[Heuser 1998]{projetobancodedados}
 \abntrefinfo{Heuser}{HEUSER}{1998}
 {HEUSER, C.~A. \emph{Projeto de banco de dados}. 4. ed. [S.l.: s.n.], 1998.}
+
+\bibitem[Hostinger 2019]{css}
+\abntrefinfo{Hostinger}{HOSTINGER}{2019}
+{HOSTINGER. \emph{O que é CSS?} 2019.
+Dispon{\'\i}vel em:
+  \url{https://www.hostinger.com.br/tutoriais/o-que-e-css-guia-basico-de-css/}.}
 
 \bibitem[Koliver, Dorneles e Casa 2004]{KOLIVER}
 \abntrefinfo{Koliver, Dorneles e Casa}{KOLIVER; DORNELES; CASA}{2004}
@@ -117,6 +173,11 @@ p. 949--960, 2004.}
 \abntrefinfo{Lee e Hammer}{LEE; HAMMER}{2011}
 {LEE, J.; HAMMER, J. Gamification in education: What, how, why bother?
 \emph{Academic Exchange Quarterly}, v.~15, p.~1--5, 01 2011.}
+
+\bibitem[MySql 2019]{mysql}
+\abntrefinfo{MySql}{MYSQL}{2019}
+{MYSQL. \emph{About MySQL}. 2019.
+Dispon{\'\i}vel em: \url{https://www.mysql.com/}.}
 
 \bibitem[{PEREIRA}, {COSTA} e {APARICIO} 2017]{7975788}
 \abntrefinfo{{PEREIRA}, {COSTA} e {APARICIO}}{{PEREIRA}; {COSTA};
@@ -134,6 +195,11 @@ ISSN 1544-3574.
 Dispon{\'\i}vel em:
   \url{http://doi-acm-org.ez54.periodicos.capes.gov.br/10.1145/950566.950596}.}
 
+\bibitem[Pressman 2011]{pressman}
+\abntrefinfo{Pressman}{PRESSMAN}{2011}
+{PRESSMAN, R.~S. \emph{Engenharia de Software: Uma abordagem profissional}.
+  [S.l.]: bookman, 2011. v.~7.}
+
 \bibitem[Raposo e Dantas 2016]{raposo2016desafio}
 \abntrefinfo{Raposo e Dantas}{RAPOSO; DANTAS}{2016}
 {RAPOSO, E. H.~S.; DANTAS, V. O desafio da serpente-usando gamification para
@@ -141,6 +207,23 @@ Dispon{\'\i}vel em:
   In:  \emph{Brazilian Symposium on Computers in Education (Simp{\'o}sio
   Brasileiro de Inform{\'a}tica na Educa{\c{c}}{\~a}o-SBIE)}. [S.l.: s.n.],
   2016. v.~27, n.~1, p.~577.}
+
+\bibitem[Schools 1999]{html}
+\abntrefinfo{Schools}{SCHOOLS}{1999a}
+{SCHOOLS, W. \emph{HTML5 Tutorial}. 1999.
+Dispon{\'\i}vel em: \url{https://www.w3schools.com/html/}.}
+
+\bibitem[Schools 1999]{java}
+\abntrefinfo{Schools}{SCHOOLS}{1999b}
+{SCHOOLS, W. \emph{Java Introduction}. 1999.
+Dispon{\'\i}vel em: \url{https://www.w3schools.com/java/java\_intro.asp}.}
+
+\bibitem[Semedo et al. 2012]{semedo2012ganhos}
+\abntrefinfo{Semedo et al.}{SEMEDO et al.}{2012}
+{SEMEDO, M. J.~M. et al. Ganhos de produtividade e de sucesso de metodologias
+  {\'a}geis vs metodologias em cascata no desenvolvimento de projectos de
+  software.
+2012.}
 
 \bibitem[Silva et al. 2014]{da2014gamificaccao}
 \abntrefinfo{Silva et al.}{SILVA et al.}{2014}
@@ -179,5 +262,16 @@ Dispon{\'\i}vel em:
   disciplina de al1 do curso de sistemas de informação da faeterj--campus
   paracambi.
 \emph{Cadernos UniFOA}, v.~10, n.~27, p. 5--15, 2015.}
+
+\bibitem[Vue 2014]{vue}
+\abntrefinfo{Vue}{VUE}{2014}
+{VUE. \emph{Why Vue.js}. 2014.
+Dispon{\'\i}vel em: \url{https://vuejs.org/}.}
+
+\bibitem[Vue 2019]{axios}
+\abntrefinfo{Vue}{VUE}{2019}
+{VUE. \emph{Usando Axios para Consumir APIs}. 2019.
+Dispon{\'\i}vel em:
+  \url{https://br.vuejs.org/v2/cookbook/using-axios-to-consume-apis.html}.}
 
 \end{thebibliography}

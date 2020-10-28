@@ -578,6 +578,33 @@ levando em conta os exemplos de modelagem de dados criados no modelo conceitual 
 % 	Fonte: Autor
 % 	\label{figura2}
 % \end{figure}
+\section{Metodologia cascata}
+
+De acordo com \citeonline{semedo2012ganhos}, metodologia pode ser definida como um conjunto de procedimentos, técnicas, documentação e ferramentas que 
+auxiliam os responsáveis ou interessados no desenvolvimento e implementação de um sistema de informação. Na maioria das vezes, o sucesso
+de um projeto de software depende de vários fatores que vão desde o planejamento à escolha mais adequada de uma metodologia.
+
+O modelo cascata, também conhecido como modelo tradicional, é uma das metodologias mais antigas e conhecidas. A utilização desta 
+metodologia consiste em seguir o desenvolvimento do projeto de forma sequencial, onde só se deve passar para os níveis seguintes após
+a conclusão do nível anterior. Esta metodologia envolve duas grandes fases: levantamento de requisitos/necessidades e design. \cite{semedo2012ganhos}
+
+Muitos autores desencorajam a utilização da metodologia cascata no desenvolvimento de grandes sistemas, como é o caso do pesquisador
+\apudonline{gilb1988principles}{semedo2012ganhos}  e \apudonline{brooks}{semedo2012ganhos}. Este tipo de metodologia deve ser usada apenas em situações onde os requisitos do software são estáveis e requisitos
+que possam vir a surgir no futuro sejam previsíveis. \cite{semedo2012ganhos}
+
+
+No modelo cascata apresentado por \citeonline{pressman} no livro "Engenharia de Software: Uma abordagem profissional", o autor
+apresenta cinco fases sequenciais que devem ser satisfeitas no desenvolvimento de um sistema obedecendo esta metodologia(cascata). 
+Cada uma das cinco fases podem ser vistas na figura \ref{cascata} apresentada logo em seguida.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/cascata.png}
+	\caption{Modelo cascata}
+	Fonte: \cite{pressman}
+	\label{cascata}
+\end{figure}
+
 
 \chapter{Metodologia}
 
@@ -728,21 +755,115 @@ Na tabela a seguir, é apresentado uma comparação entre os requsitos levantado
 
 \chapter{Solução proposta}
 
-\section{Escolha das ferramentas}
+\section{Ferramentas de desenvolvimento}
 A escolha das ferramentas de desenvolvimento e demais tecnologias, foram realizadas com base em experiências prévias, disponibilidade de documentações e comunidades de apoio ao desenvolvedor.
 
 A seguir são apresentadas as principais tecnologias utilizadas no desenvolvimento da ferramenta bem como uma breve descrição de suas características.
 
+\section{\textit{Backend}}
+
+\begin{itemize}
+	\item Java: Linguagem de programação orientada a objetos desenvolvida na década de 90.Diferente das linguagens de programação
+		modernas que são compiladas para código nativo, a linguagem java é compilada para um \textit{bytecode} que é interpretado por uma máquina
+		virtual (\textit{java virtual machine}). Por conta disso, a linguagem torna-se altamente portável, isto é, independente de plataforma \cite{java}.
+	\item MySql: Sistema de gerenciamento de banco de dados que utiliza linguagem sql como interface. Voltado para o armazenamento e manutenção 
+		de registros de um banco de dados \cite{mysql}.
+	\item Maven: Ferramenta de automação de compilação muito utilizada em projetos que envolvem a linguagem java. O maven
+		utiliza um arquivo \textit{xml} (POM) para descrever o projeto de software sendo implementado, suas dependências, componentes
+		externos, \textit{plugins} necessários, diretórios e ordem de compilação \cite{maven}.
+	\item Jersey: \textit{Framework} que facilita o desenvolvimento de APIs (Application Programming Interface) RESTful \cite{jersey}.
+	\item JDBC: \textit{Driver} que possui um conjunto de classes e interfaces java que permitem o envio/comunicação com qualquer
+		banco de dados relacional. Permitindo interligar a aplicação com um banco de dados \cite{jdbc}.
+	\item Tomcat: Consiste em um servidor de aplicações java que permite que o mesmo funcione na \textit{web} \cite{tomcat}.
+
+\end{itemize}
+
+\subsection{Segurança dos dados}
+Visando prover maior segurança das informações dos jogadores/usuários, informações críticas como senhas de usuários,
+são persistidas no banco de dados de forma criptografada. Desta forma, nem os desenvolvedores/manetedores ou possíveis 
+tentativas de ataque \textit{hacker} têm acesso a essa informação.
+
+Nessa solução, utilizou-se como algoritmo de criptografia o MD5.
+
+\section{\textit{Frontend}}
+\begin{itemize}
+	\item Vue.js: \textit{Framework} javaScript voltado para o desenvolvimento de interfaces de usuário \cite{vue}.
+	\item Axios: É um cliente HTTP que permite consumir e exibir dados de uma API (Application Programming Interface) de forma facilitada e ágil \cite{axios}.
+	\item Html: Linguagem de marcação bastante utilizada na construção de páginas web. Que podem ser interpretados por 
+		qualquer navegador \cite{html}.
+	\item CSS: Mecanismo que permite adicionar cores, fontes, espaçamentos e efeitos em um documento \textit{web} (html). \cite{css}
+	\item Bootstrap:\textit{Framework web} voltado para o desenvolvimento de interfaces para aplicações e sites usando HTML, CSS e JavaScript, melhorando
+		a experiência do usuário, tornando um site amigável e responsível \cite{bootstrap}.
+	\item Json: \textit{JavaScript Object Notation} é uma formatação de troca de dados. Possui formato textual e é completamente independente de linguagem. É
+		consituido por conjuntos de chave e seu respectivo valor \cite{json}.
+\end{itemize}
+
+
+
 \section{Arquitetura}
+
+No desenvolvimento da ferramenta, tem-se como modelo arquitetural a ser utilizado o "n camadas". Esse tipo
+de arquitetura consiste na separação de responsabilidades específicas para cada uma das camadas presentes 
+na construção do sistema \cite{MSF}. A letra ``n'' representa a quantidade de camadas em que a construção do sistema 
+está dividida, nesta solução, o desenvolvimento do sistema está dividido em 4 camadas que são: apresentação, serviço, modelo
+e armazenamento.
+
+O modelo simplificado apresentado na figura \ref{arquitetura} demonstra como ocorre o fluxo de comunicação entre as principais tecnologias
+usadas no desenvolvimento.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[keepaspectratio=true,scale=0.8]{figuras/arquitetura.png}
+	\caption{Representação da arquitetura do sistema.}
+	Fonte: {Autor}
+	\label{arquitetura}
+\end{figure}	
+
+\subsection{Camada 1: Apresentação}
+Esta camada envolve todas as tecnologias responsáveis pela apresentação de informações ao usuário e realização de requisições para obter as informações
+a serem apresentadas. As principais tecnologias utilizadas para a consolidação desta camada foram: HTML, CSS, Vue.js, Axios (requisições) e bootstrap.
+
+\subsection{Camada 2: Serviço}
+A camada de serviço é responsável pelo preparo e disponibilização de informações obedecendo uma certa estrutura (json para esta solução) quando estas forem requisitadas. 
+Cabe a ela iniciar a comunicação com as subcamadas de forma a solicitar que determinadas informações sejam recuperadas e organizar estas informações em uma estrutura que seja compatível
+com o formato de troca de dados estabelecido. Para a construção do serviço, utilizou-se o \textit{framework} de construção de APIs REST, Jersey.
+
+\subsection{Camada 3: Modelo}
+Nesta camada são organizados em pacotes todos os arquivos necessários para realizar o mapeamento de objetos para os tipos de dados aceitos pelo banco de dados
+adotado e obter uma conexão com o banco de dados. Esses dois itens citados são feitas por classes DAO (Objeto de Acesso a Dados).
+
+Além das responsabilidades citadas no parágrafo anterior, cabe a esta camada a responsabilidade de definir a estrutura de transferência de dados entre os subsistemas
+do software. Este padrão é conhecido como DTO (Objeto de Transferência de Dados) e geralmente são utilizados em conjunto com objetos de negócio de forma a se obter maior
+flexibilidade no acesso a determinados dados.
+
+\subsubsection{Camada 4: Armazenamento}
+Esta camada consiste na utilização de um sistema gerenciador de banco de dados (SGBD), mySql para esta solução, que passa a ser responsável pelo armazenamento de forma segura e consistente
+dos dados do sistema. Além de realizar o armazenamento, o SGBD é responsável por recuperar e manipular informações sempre que for necessário e fornece-las sempre que forem solicitadas.
 
 \section{Desenvolvimento cascata}
 
-\section{\textit{Backend}}
+No desenvolvimento da ferramenta, escolheu-se a metodologia cascata devido a natureza de desenvolvimento deste trabalho ser compatível com as 
+catacterísticas propostas pela metodologia. O desenvolvimento da ferramenta partiu da definição dos requisitos, planejamento, desenvolvimento, testes e entrega final.
 
-\section{\textit{Frontend}}
+As características desta metodologia podem ser apreciadas em detalhes no referencial teórico deste trabalho.
+
+\begin{figure}[h]
+	\centering
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/modeloprocesso.png}
+	\caption{Modelo de processos com principais atividades}
+	Fonte: {Autor}
+	\label{modeloprocesso}
+\end{figure}	
+
+No modelo apresentado na figura \ref{modeloprocesso}, é possível identificar em cada fase as principais atividades, iniciando pela definição
+do escopo do projeto, elicitação de requisitos por meio da aplicação de um questionário e extração de algumas características
+de \textit{design} de outras ferramentas e jogos, priorização dos requisitos por meio da ferramenta \textit{moscow},
+definição das tecnologias de desenvolvimento utilizadas, modelagem arquitetural da ferramenta construída, desenvolvimento da ferramenta utilizando ferramentas e
+ seguindo metodologia definida, testes, disponibilização da versão a ser utilizada como foco 
+de análise, coleta de \textit{feedback} por meio da aplicação de questionário e análise dos dados.  
 
 \section{Hospedagem}
-pós a conclusão da construção da ferramenta, iniciou-se um estudo em cima de serviços de hospedagem.
+Após a conclusão da construção da ferramenta, iniciou-se um estudo em cima de serviços de hospedagem.
 Nesta fase também foi levado em consideração, assim como todas as tecnologias utilizadas no desenvolvimento desta ferramenta, os conhecimentos prévios e experiências com o serviço.
 
 Com relação ao banco de dados, utilizou-se o próprio heroku como hospedagem. Embora aplicação e o banco de dados estejam hospedados neste serviço, os dois são independentes um do outro, isto é,Em caso de indisponibilidade de um destes, 
@@ -810,8 +931,6 @@ Os personagens são apresentados a seguir.
 \end{figure}
 
 \clearpage
-
-
 \subsection{Lince}
 \begin{figure}[h]
 	\centering
