@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  28 OCT 2020 11:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  28 OCT 2020 12:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1051,7 +1051,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figuras/aisha.png, id=729, 295.1025pt x 619.31375pt>
 File: figuras/aisha.png Graphic file (type png)
 <use figuras/aisha.png>
-Package pdftex.def Info: figuras/aisha.png  used on input line 916.
+Package pdftex.def Info: figuras/aisha.png  used on input line 915.
 (pdftex.def)             Requested size: 147.55087pt x 309.65611pt.
 
 
@@ -1061,7 +1061,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <figuras/voxter.png, id=740, 288.07625pt x 636.3775pt>
 File: figuras/voxter.png Graphic file (type png)
 <use figuras/voxter.png>
-Package pdftex.def Info: figuras/voxter.png  used on input line 927.
+Package pdftex.def Info: figuras/voxter.png  used on input line 926.
 (pdftex.def)             Requested size: 144.03777pt x 318.18797pt.
  [46
 
@@ -1069,7 +1069,7 @@ Package pdftex.def Info: figuras/voxter.png  used on input line 927.
 <figuras/lince.png, id=746, 291.0875pt x 556.0775pt>
 File: figuras/lince.png Graphic file (type png)
 <use figuras/lince.png>
-Package pdftex.def Info: figuras/lince.png  used on input line 937.
+Package pdftex.def Info: figuras/lince.png  used on input line 936.
 (pdftex.def)             Requested size: 145.54338pt x 278.03807pt.
  [47
 
@@ -1077,7 +1077,7 @@ Package pdftex.def Info: figuras/lince.png  used on input line 937.
 <figuras/amazona.png, id=752, 293.095pt x 452.69125pt>
 File: figuras/amazona.png Graphic file (type png)
 <use figuras/amazona.png>
-Package pdftex.def Info: figuras/amazona.png  used on input line 948.
+Package pdftex.def Info: figuras/amazona.png  used on input line 947.
 (pdftex.def)             Requested size: 146.54713pt x 226.34506pt.
  [48
 
@@ -1085,7 +1085,7 @@ Package pdftex.def Info: figuras/amazona.png  used on input line 948.
 <figuras/tymer.png, id=759, 287.0725pt x 594.22pt>
 File: figuras/tymer.png Graphic file (type png)
 <use figuras/tymer.png>
-Package pdftex.def Info: figuras/tymer.png  used on input line 959.
+Package pdftex.def Info: figuras/tymer.png  used on input line 958.
 (pdftex.def)             Requested size: 143.53589pt x 297.10927pt.
  [49
 
@@ -1093,7 +1093,7 @@ Package pdftex.def Info: figuras/tymer.png  used on input line 959.
 <figuras/scar.png, id=765, 288.07625pt x 566.115pt>
 File: figuras/scar.png Graphic file (type png)
 <use figuras/scar.png>
-Package pdftex.def Info: figuras/scar.png  used on input line 969.
+Package pdftex.def Info: figuras/scar.png  used on input line 968.
 (pdftex.def)             Requested size: 144.03777pt x 283.05681pt.
  [50
 
@@ -1163,7 +1163,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  45i,13n,45p,471b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on /Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.pdf (61 pages, 3801511 bytes).
+Output written on /Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.pdf (61 pages, 3801771 bytes).
 PDF statistics:
  1286 PDF objects out of 1440 (max. 8388607)
  1155 compressed objects within 12 object streams
