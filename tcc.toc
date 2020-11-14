@@ -54,6 +54,7 @@
 \contentsline {subsubsection}{\numberline {3.1.1.4}Barra de progresso}{35}{subsubsection.3.1.1.4}%
 \contentsline {subsection}{\numberline {3.1.2}Empoderamento \textit {feedback}}{35}{subsection.3.1.2}%
 \contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{35}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}\textit {Feedback}}{36}{subsubsection.3.1.2.2}%
 \contentsline {section}{\numberline {3.2}Requisitos}{36}{section.3.2}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \contentsline {chapter}{\chapternumberline {4}\MakeTextUppercase {Solução proposta}}{38}{chapter.4}%
