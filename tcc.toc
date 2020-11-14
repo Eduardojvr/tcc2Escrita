@@ -83,31 +83,32 @@
 \contentsline {section}{\numberline {4.13}Desafios}{51}{section.4.13}%
 \contentsline {subsection}{\numberline {4.13.1}Jogador contra Jogador}{51}{subsection.4.13.1}%
 \contentsline {subsection}{\numberline {4.13.2}Desafio individual}{51}{subsection.4.13.2}%
+\contentsline {section}{\numberline {4.14}Experiência de uso}{51}{section.4.14}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{52}{section*.14}%
+\contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{53}{section*.14}%
 \renewcommand *{\cftappendixname }{AP\^ENDICE \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{55}{section*.15}%
+\contentsline {part}{\uppercase {Ap\^endices}}{56}{section*.15}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Apêndice}}{56}{appendix.A}%
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Apêndice}}{57}{appendix.A}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Apêndice}}{57}{appendix.B}%
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Apêndice}}{58}{appendix.B}%
 \cftinsert {AAA}
 \renewcommand *{\cftappendixname }{ANEXO \space }
 \setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
 \cftinsert {A}
-\contentsline {part}{\uppercase {Anexos}}{58}{section*.16}%
+\contentsline {part}{\uppercase {Anexos}}{59}{section*.16}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{59}{appendix.anexochapback.1}%
+\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Primeiro Anexo}}{60}{appendix.anexochapback.1}%
 \setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \cftinsert {A}
-\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{60}{appendix.anexochapback.2}%
+\contentsline {appendix}{\chapternumberline {B}\MakeTextUppercase {Segundo Anexo}}{61}{appendix.anexochapback.2}%
