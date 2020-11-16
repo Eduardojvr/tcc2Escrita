@@ -726,7 +726,7 @@ elaborada. Isto é, o jogador é peça fundamental na ferramenta, ele é o respo
 da invasão, que somente pode ser feito por ele.
 
 
-\subsection{Narrativa e elitismo}
+\subsubsection{Narrativa e elitismo}
 A aplicação possui uma narrativa que elaborado especialmente objetivando envolver o jogador/aluno
 em uma temática Orc. Basicamente, ao iniciar o primeiro acesso na aplicação, o jogador é apresentado brevemente à história temática onde,
 por meio de uma voz gravada e processada, é apresentado todo o contexto da jornada que o mesmo deverá seguir.
@@ -735,7 +735,7 @@ Após a apresentação da jornada e temática da aplicação, São presentado se
 que lhe mais atrair, seja pela história do personagem ou características como: poderes, trajes e etc.
 
 \subsection{Perda de pontos e progresso}
-\subsection{Perda de pontos}
+\subsubsection{Perda de pontos}
 Na ferramenta, existe um painel que permitem aos jogadores elaborar estratégias mais dinâmicas. Uma das formas de se obter vantagem estratégica na aplicação, é atacar
 outros jogadores diretamente ou todos os jogadores de um vez só, existem diversos ítens como porções e etc, que causam perda de pontos
 dos jogadores alvos. As porções, valor do dano, valor de uso(custo) e etc, são apresentados nas figuras \ref{porcoes} e \ref{porcoes2}
@@ -756,7 +756,7 @@ dos jogadores alvos. As porções, valor do dano, valor de uso(custo) e etc, sã
 	\label{porcoes2}
 \end{figure}
 
-\subsection{Perda de progresso}
+\subsubsection{Perda de progresso}
 Com a conquista de determinadas pontuações, novos \textit{levels} vão sendo liberados. O contrário também ocorre, ou seja, ao perder 
 pontos e se a pontuação restante for menor que o necessário para o \textit{level} ser desbloqueado, o jogador é 
 automáticamente rebaixado para o nível que sua pontuação for compatível.
@@ -814,7 +814,7 @@ A escolha das ferramentas de desenvolvimento e demais tecnologias, foram realiza
 
 A seguir são apresentadas as principais tecnologias utilizadas no desenvolvimento da ferramenta bem como uma breve descrição de suas características.
 
-\section{\textit{Backend}}
+\subsection{\textit{Backend}}
 
 \begin{itemize}
 	\item Java: Linguagem de programação orientada a objetos desenvolvida na década de 90.Diferente das linguagens de programação
@@ -832,14 +832,7 @@ A seguir são apresentadas as principais tecnologias utilizadas no desenvolvimen
 
 \end{itemize}
 
-\subsection{Segurança dos dados}
-Visando prover maior segurança das informações dos jogadores/usuários, informações críticas como senhas de usuários,
-são persistidas no banco de dados de forma criptografada. Desta forma, nem os desenvolvedores/manetedores ou possíveis 
-tentativas de ataque \textit{hacker} têm acesso a essa informação.
-
-Nessa solução, utilizou-se como algoritmo de criptografia o MD5.
-
-\section{\textit{Frontend}}
+\subsection{\textit{Frontend}}
 \begin{itemize}
 	\item Vue.js: \textit{Framework} javaScript voltado para o desenvolvimento de interfaces de usuário \cite{vue}.
 	\item Axios: É um cliente HTTP que permite consumir e exibir dados de uma API (Application Programming Interface) de forma facilitada e ágil \cite{axios}.
@@ -852,11 +845,16 @@ Nessa solução, utilizou-se como algoritmo de criptografia o MD5.
 		consituido por conjuntos de chave e seu respectivo valor \cite{json}.
 \end{itemize}
 
+\section{Segurança dos dados}
+Visando prover maior segurança das informações dos jogadores/usuários, informações críticas como senhas de usuários,
+são persistidas no banco de dados de forma criptografada. Desta forma, nem os desenvolvedores/manetedores ou possíveis 
+tentativas de ataque \textit{hacker} têm acesso a essa informação.
 
+Nessa solução, utilizou-se como algoritmo de criptografia o MD5.
 
 \section{Arquitetura}
 
-No desenvolvimento da ferramenta, tem-se como modelo arquitetural a ser utilizado o "n camadas". Esse tipo
+No desenvolvimento da ferramenta, utilizou-se o "n camadas". Esse tipo
 de arquitetura consiste na separação de responsabilidades específicas para cada uma das camadas presentes 
 na construção do sistema \cite{MSF}. A letra ``n'' representa a quantidade de camadas em que a construção do sistema 
 está dividida, nesta solução, o desenvolvimento do sistema está dividido em 4 camadas que são: apresentação, serviço, modelo
@@ -890,7 +888,7 @@ Além das responsabilidades citadas no parágrafo anterior, cabe a esta camada a
 do software. Este padrão é conhecido como DTO (Objeto de Transferência de Dados) e geralmente são utilizados em conjunto com objetos de negócio de forma a se obter maior
 flexibilidade no acesso a determinados dados.
 
-\subsubsection{Camada 4: Armazenamento}
+\subsection{Camada 4: Armazenamento}
 Esta camada consiste na utilização de um sistema gerenciador de banco de dados (SGBD), mySql para esta solução, que passa a ser responsável pelo armazenamento de forma segura e consistente
 dos dados do sistema. Além de realizar o armazenamento, o SGBD é responsável por recuperar e manipular informações sempre que for necessário e fornece-las sempre que forem solicitadas.
 
@@ -927,7 +925,7 @@ o outro não é afetado no que se refere a disponibilidade do serviço.
 
 \section{Modelagem de dados}
 Como apresentado no referencial teórico de trabalho, existem diversas formas de representar em forma de diagrama banco de dados. Neste trabalho utilizou-se a diagramação de Peter Chen.
-
+\pagebreak
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.4]{figuras/der.png}
@@ -935,7 +933,7 @@ Como apresentado no referencial teórico de trabalho, existem diversas formas de
 	Fonte: Autor
 	\label{figura2}
 \end{figure}
-
+\pagebreak
 
 \begin{figure}[h]
 	\centering
@@ -945,17 +943,19 @@ Como apresentado no referencial teórico de trabalho, existem diversas formas de
 	\label{figura3}
 \end{figure}
 
-Neste capítulo são apresentados os elementos característicos da ferramenta como: personagens, narrativa, temática entre outros 
+\section{Características específicas da ferramenta}
+
+Nesta seção, são apresentados os elementos característicos da ferramenta como: personagens, narrativa, temática entre outros 
 elementos que foram pensados como forma de gamificar as atividades de aprendizagem de programação.
 
-\section{Narrativa}
+\subsection{Narrativa}
 
 Com o objetivo de aumentar o engajamento dos estudantes/jogadores, fora desenvolvida uma história que se passa em um mundo 
 onde criaturas (Orcs) invadem o vilarejo do jogador que, motivado pelo desejo de vingança e tendo sido escolhido entre uma legião 
 de outros guerreiro, dá início à jornada onde o mesmo deve cumprir com desafios como: quiz, desafiar outros jogadores entre outras
 atividades que dão ao jogador pontos que podem ser trocados por itens ou serem acumulados afim de obter boas posições nos \textit{rankings}.
 
-\section{Personagens}
+\subsection{Personagens}
 
 Ao jogador, após a realização do primeiro \textit{login} na ferramenta, são apresentados seis personagens com diferentes características, onde o jogador
 deve selecionar um único personagem para iniciar a jornada de aprendizado. Ao selecionar um determinado personagem, não é permitido ao jogador/estudante 
@@ -963,7 +963,7 @@ modifica-lo no decorrer do uso da ferramenta.
 
 Os personagens são apresentados a seguir.
 
-\subsection{Aisha}
+\subsubsection{Aisha}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/aisha.png}
@@ -974,7 +974,7 @@ Os personagens são apresentados a seguir.
 
 \clearpage
 
-\subsection{Voxter}
+\subsubsection{Voxter}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/voxter.png}
@@ -984,7 +984,7 @@ Os personagens são apresentados a seguir.
 \end{figure}
 
 \clearpage
-\subsection{Lince}
+\subsubsection{Lince}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/lince.png}
@@ -995,7 +995,7 @@ Os personagens são apresentados a seguir.
 
 \clearpage
 
-\subsection{Amazona}
+\subsubsection{Amazona}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/amazona.png}
@@ -1006,7 +1006,7 @@ Os personagens são apresentados a seguir.
 
 \clearpage
 
-\subsection{Tymer}
+\subsubsection{Tymer}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/tymer.png}
@@ -1016,7 +1016,7 @@ Os personagens são apresentados a seguir.
 \end{figure}
 \clearpage
 
-\subsection{Scar}
+\subsubsection{Scar}
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/scar.png}
@@ -1025,7 +1025,7 @@ Os personagens são apresentados a seguir.
 	\label{scar}
 \end{figure}
 
-\section{Questões}
+\subsection{Questões}
 Existem diferentes tipos de questões que podem ser solucionados pelo jogador. A correção destas, são feitas automaticamente
 pelo sistema de acordo com respostas pré cadastradas na base de dados.
 
@@ -1042,7 +1042,7 @@ de solucionar as questões.
 
 Para cada tentativa de resposta julgada como incorreta, é apresentado a alternativa correta para aquela questão.
 
-\section{\textit{Levels}}
+\subsection{\textit{Levels}}
 
 A medida que o jogador conquista maiores pontuações, é desbloqueado o novo level que consiste na liberação de novos conteúdos 
 mais avançados em relação aos anteriores.  No total, existem 12  levels, os  conteúdos abordados em cada um deles são apresentado 
@@ -1075,11 +1075,12 @@ logo a seguir.
 
 Os levels são compostos por questões, como as apresentadas na seção anterior.
 
-\section{Desafios}
+\subsection{Desafios}
 
-\subsection{Jogador contra Jogador}
+\subsubsection{Jogador contra Jogador}
 
-\subsection{Desafio individual}
+
+\subsubsection{Desafio individual}
 Os desafios individuais consistem em resolver diferentes tipos de  desafios pré cadastrados no sistema que, uma vez 
 solucionados e avaliados pelo administrador do sistema e, tendo sido julgado por este como correto, é adicionado à
 pontuação total do jogador mais 100 pontos. Os  desafios variam de simples respostas até implementação de códigos.
