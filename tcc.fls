@@ -249,12 +249,12 @@ INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/dedicatoria.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/dedicatoria.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/agradecimentos.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/agradecimentos.tex
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/epigrafe.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/epigrafe.tex
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/resumo.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/resumo.tex
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/abstract.tex
@@ -325,6 +325,9 @@ INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/cascata.png
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/cascata.png
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/cascata.png
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbxi10.tfm
+INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/espadas.png
+INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/espadas.png
+INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/espadas.png
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/p1.png
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/p1.png
 INPUT /Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/p1.png
