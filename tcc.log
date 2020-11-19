@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  16 NOV 2020 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  19 NOV 2020 19:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -832,7 +832,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/epigrafe.tex [6
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/resumo.tex [7
+]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/resumo.tex
+Overfull \hbox (15.85434pt too wide) in paragraph at lines 12--14
+\T1/lmr/bx/n/12 Palavras-chave\T1/lmr/m/n/12 : Ga-mi-fi-ca-ção, Fer-ra-menta, Re-qui-si-tos, De-sen-vol-vi-mento, Mo-ti-va-ção, Apren-
+ []
+
+[7
 
 ]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/abstract.tex [8
 
@@ -1175,15 +1180,15 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
- 13721 strings out of 480608
- 210312 string characters out of 5903629
+ 13720 strings out of 480608
+ 210297 string characters out of 5903629
  518363 words of memory out of 5000000
- 28950 multiletter control sequences out of 15000+600000
+ 28949 multiletter control sequences out of 15000+600000
  631124 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  45i,13n,45p,471b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on /Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.pdf (64 pages, 3864435 bytes).
+Output written on /Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.pdf (64 pages, 3864696 bytes).
 PDF statistics:
  1372 PDF objects out of 1440 (max. 8388607)
  1231 compressed objects within 13 object streams
