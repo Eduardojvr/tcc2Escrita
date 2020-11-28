@@ -791,7 +791,7 @@ Na tabela a seguir, é apresentado uma comparação entre os requsitos levantado
 
 \begin{table}[h]
 	\centering
-	\resizebox{.8\textwidth}{!}{%
+	\resizebox{.9\textwidth}{!}{%
 	\begin{tabular}{|l|l|l|l|}
 	\hline
 	\textbf{Identificador} & \textbf{Requisito} & \textbf{Implementado?}\\ \hline
@@ -935,10 +935,10 @@ Nesta fase também foi levado em consideração, assim como todas as tecnologias
 
 Com relação ao banco de dados, utilizou-se o próprio heroku como hospedagem. Embora aplicação e o banco de dados estejam hospedados neste serviço, os dois são independentes um do outro, isto é,Em caso de indisponibilidade de um destes, 
 o outro não é afetado no que se refere a disponibilidade do serviço.
+\pagebreak
 
 \section{Modelagem de dados}
 Como apresentado no referencial teórico de trabalho, existem diversas formas de representar em forma de diagrama banco de dados. Neste trabalho utilizou-se a diagramação de Peter Chen.
-\pagebreak
 \begin{figure}[h]
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.4]{figuras/der.png}
@@ -979,7 +979,7 @@ Os personagens são apresentados a seguir.
 \subsubsection{Aisha}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/aisha.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/aisha.png}
 	\caption{Personagem Aisha}
 	Fonte: Autor
 	\label{aisha}
@@ -990,49 +990,43 @@ Os personagens são apresentados a seguir.
 \subsubsection{Voxter}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/voxter.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/voxter.png}
 	\caption{Personagem Voxter}
 	Fonte: Autor
 	\label{voxter}
 \end{figure}
-
 \clearpage
 \subsubsection{Lince}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/lince.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/lince.png}
 	\caption{Personagem Lince}
 	Fonte: Autor
 	\label{lince}
 \end{figure}
-
 \clearpage
-
 \subsubsection{Amazona}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/amazona.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/amazona.png}
 	\caption{Personagem Amazona}
 	Fonte: Autor
 	\label{amazona}
 \end{figure}
-
 \clearpage
-
 \subsubsection{Tymer}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/tymer.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/tymer.png}
 	\caption{Personagem Tymer}
 	Fonte: Autor
 	\label{tymer}
 \end{figure}
 \clearpage
-
 \subsubsection{Scar}
 \begin{figure}[h]
 	\centering
-	\includegraphics[keepaspectratio=true,scale=0.5]{figuras/scar.png}
+	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/scar.png}
 	\caption{Personagem Scar}
 	Fonte: Autor
 	\label{scar}
@@ -1121,26 +1115,27 @@ o percentual de respostas para as afirmativas, que podiam ser julgadas em uma es
 
 \begin{table}[h]
 	\centering
-	\resizebox{.5\textwidth}{!}{%
-	\begin{tabular}{|l|l|l|l|l|l|}
+	\resizebox{0.9\textwidth}{!}{%
+	\begin{tabular}{|p{5cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|p{3cm}|}
 	\hline
 	\textbf{Afirmativa} & \textbf{(1) Discordo totalmente } & \textbf{(2) Discordo parcialmente} & \textbf{(3) Não concordo nem discordo} & \textbf{(4) Concordo parcialmente} & \textbf{(5) Concordo totalmente}  \\ \hline
-	1. Com relação à temática, narrativa e personagens da ferramenta eles são considerados atraentes. &0\% & 0\% & 6,7\% & 13,3\% & 80\%  \\ \hline
+	1. Com relação à temática, narrativa e personagens da ferramenta eles são considerados atraentes. & 0\% & 0\% & 6,7\% & 13,3\% & 80\%  \\ \hline
 	2. Com relação aos aspectos de Layout e aparência visual são de boa qualidade &0\% &0\% & 6,7\% & 26,7\% & 66,7\%  \\ \hline
 	3. O site não está poluído visualmente & 6,7\% & 6,7\% & 0\% & 6,7\% & 80\% \\ \hline
 	4. O site é confuso & 60\% & 20\% & 0\% & 0\% & 20\% \\ \hline
 	5. O site é de fácil navegação & 0\%& 6,7\% & 0\% & 26,7\% & 66,7\% \\ \hline
 	6. O site é de fácil de utilização & 0\% & 6,7\% & 6,7\% & 20\% & 66,7\% \\ \hline
 	7. O site é agradável & 0\% & 0\% & 0\% & 33,3\% & 66,7\%\\ \hline
-	8. O site apresenta fácil entendimento das informações &0\% & 0\% & 0\% & 26,7\% & 73,3\% \\ \hline
-	9. Eu utilizaria ou recomendaria o uso da ferramenta para o propósito que ele foi construído. & 0\% & 0\% & 0\% & 26,7\% & 73,3\%\\ \hline
+	8. O site apresenta fácil entendimento das informações & 0\% & 0\% & 0\% & 26,7\% & 73,3\% \\ \hline
+	9. Eu utilizaria ou recomendaria o uso da ferramenta para o propósito que ele foi construído. & 0\% & 0\% & 0\% & 26,7\% & 73,3\% \\ \hline
 	10. A partir da experiência ao utilizar o ProGame eu me considero pelnamente satisfeito. & 0\% & 0\% & 0\% & 46,7\% & 53,3\%\\ \hline
 	\end{tabular}%
 	}
 	\caption{Teste de usabilidade}
+	\label{exp}
 	Fonte: {Autor}
 	% \small{Quadro 2 - Requisitos funcionais} 
-\end{exp}
+\end{table}
 
 O questionário aplicado pode ser apreciado no apêndice \ref{apenda} deste trabalho.
 
