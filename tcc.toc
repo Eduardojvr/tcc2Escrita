@@ -76,24 +76,23 @@
 \contentsline {subsection}{\numberline {4.3.4}Camada 4: Armazenamento}{43}{subsection.4.3.4}%
 \contentsline {section}{\numberline {4.4}Desenvolvimento cascata}{43}{section.4.4}%
 \contentsline {section}{\numberline {4.5}Hospedagem}{44}{section.4.5}%
-\contentsline {section}{\numberline {4.6}Testes}{44}{section.4.6}%
-\contentsline {section}{\numberline {4.7}Modelagem de dados}{44}{section.4.7}%
-\contentsline {section}{\numberline {4.8}Características específicas da ferramenta}{46}{section.4.8}%
-\contentsline {subsection}{\numberline {4.8.1}Narrativa}{46}{subsection.4.8.1}%
-\contentsline {subsection}{\numberline {4.8.2}Personagens}{47}{subsection.4.8.2}%
-\contentsline {subsubsection}{\numberline {4.8.2.1}Aisha}{47}{subsubsection.4.8.2.1}%
-\contentsline {subsubsection}{\numberline {4.8.2.2}Voxter}{48}{subsubsection.4.8.2.2}%
-\contentsline {subsubsection}{\numberline {4.8.2.3}Lince}{49}{subsubsection.4.8.2.3}%
-\contentsline {subsubsection}{\numberline {4.8.2.4}Amazona}{50}{subsubsection.4.8.2.4}%
-\contentsline {subsubsection}{\numberline {4.8.2.5}Tymer}{51}{subsubsection.4.8.2.5}%
-\contentsline {subsubsection}{\numberline {4.8.2.6}Scar}{52}{subsubsection.4.8.2.6}%
-\contentsline {subsection}{\numberline {4.8.3}Questões}{52}{subsection.4.8.3}%
-\contentsline {subsection}{\numberline {4.8.4}\textit {Levels}}{53}{subsection.4.8.4}%
-\contentsline {subsection}{\numberline {4.8.5}Desafios}{53}{subsection.4.8.5}%
-\contentsline {subsubsection}{\numberline {4.8.5.1}Jogador contra Jogador}{53}{subsubsection.4.8.5.1}%
-\contentsline {subsubsection}{\numberline {4.8.5.2}Desafio individual}{53}{subsubsection.4.8.5.2}%
-\contentsline {section}{\numberline {4.9}Experiência de uso}{54}{section.4.9}%
-\contentsline {section}{\numberline {4.10}Repositórios}{54}{section.4.10}%
+\contentsline {section}{\numberline {4.6}Modelagem de dados}{44}{section.4.6}%
+\contentsline {section}{\numberline {4.7}Características específicas da ferramenta}{46}{section.4.7}%
+\contentsline {subsection}{\numberline {4.7.1}Narrativa}{46}{subsection.4.7.1}%
+\contentsline {subsection}{\numberline {4.7.2}Personagens}{47}{subsection.4.7.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.1}Aisha}{47}{subsubsection.4.7.2.1}%
+\contentsline {subsubsection}{\numberline {4.7.2.2}Voxter}{48}{subsubsection.4.7.2.2}%
+\contentsline {subsubsection}{\numberline {4.7.2.3}Lince}{49}{subsubsection.4.7.2.3}%
+\contentsline {subsubsection}{\numberline {4.7.2.4}Amazona}{50}{subsubsection.4.7.2.4}%
+\contentsline {subsubsection}{\numberline {4.7.2.5}Tymer}{51}{subsubsection.4.7.2.5}%
+\contentsline {subsubsection}{\numberline {4.7.2.6}Scar}{52}{subsubsection.4.7.2.6}%
+\contentsline {subsection}{\numberline {4.7.3}Questões}{52}{subsection.4.7.3}%
+\contentsline {subsection}{\numberline {4.7.4}\textit {Levels}}{53}{subsection.4.7.4}%
+\contentsline {subsection}{\numberline {4.7.5}Desafios}{53}{subsection.4.7.5}%
+\contentsline {subsubsection}{\numberline {4.7.5.1}Jogador contra Jogador}{53}{subsubsection.4.7.5.1}%
+\contentsline {subsubsection}{\numberline {4.7.5.2}Desafio individual}{53}{subsubsection.4.7.5.2}%
+\contentsline {section}{\numberline {4.8}Experiência de uso}{54}{section.4.8}%
+\contentsline {section}{\numberline {4.9}Repositórios}{54}{section.4.9}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{55}{section*.14}%
