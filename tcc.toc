@@ -49,13 +49,13 @@
 \contentsline {section}{\numberline {3.1}\textit {Core drives}}{34}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Desenvolvimento e conquista}{34}{subsection.3.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.1.1}Pontos}{34}{subsubsection.3.1.1.1}%
-\contentsline {paragraph}{\numberline {3.1.1.1.1}\textit {Booster}}{35}{paragraph.3.1.1.1.1}%
 \contentsline {subsubsection}{\numberline {3.1.1.2}\textit {Ranking}}{35}{subsubsection.3.1.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.1.3}Lista de desafios}{36}{subsubsection.3.1.1.3}%
-\contentsline {subsubsection}{\numberline {3.1.1.4}Barra de progresso}{36}{subsubsection.3.1.1.4}%
-\contentsline {subsection}{\numberline {3.1.2}Empoderamento e \textit {feedback}}{36}{subsection.3.1.2}%
-\contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{36}{subsubsection.3.1.2.1}%
-\contentsline {subsubsection}{\numberline {3.1.2.2}\textit {Feedback}}{37}{subsubsection.3.1.2.2}%
+\contentsline {subsubsection}{\numberline {3.1.1.3}Lista de desafios}{35}{subsubsection.3.1.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.1.4}Barra de progresso}{35}{subsubsection.3.1.1.4}%
+\contentsline {subsection}{\numberline {3.1.2}Empoderamento e \textit {feedback}}{35}{subsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2.1}Desbloqueio de marcos}{35}{subsubsection.3.1.2.1}%
+\contentsline {subsubsection}{\numberline {3.1.2.2}\textit {Feedback}}{36}{subsubsection.3.1.2.2}%
+\contentsline {paragraph}{\numberline {3.1.2.2.1}\textit {Booster}}{36}{paragraph.3.1.2.2.1}%
 \contentsline {subsection}{\numberline {3.1.3}Significado épico e chamado}{37}{subsection.3.1.3}%
 \contentsline {subsubsection}{\numberline {3.1.3.1}Elitismo}{37}{subsubsection.3.1.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.3.2}Narrativa}{37}{subsubsection.3.1.3.2}%

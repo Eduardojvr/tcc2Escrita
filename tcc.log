@@ -1,12 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  28 NOV 2020 20:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  13 DEC 2020 11:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.tex
-(/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.tex
+**/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.tex
+(/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.tex
 LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/pacotes.tex (/usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2.cls
+L3 programming layer <2020-03-06> (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/pacotes.tex (/usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2.cls
 Document Class: abntex2 2018/11/24 v-1.9.7 abnTeX2
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
@@ -655,7 +655,7 @@ LaTeX Info: Redefining \cite on input line 618.
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
-) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/comandos.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/customizacoes.sty) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/informacoes.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/informacoes.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/setup.tex
+) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/comandos.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/customizacoes.sty) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/informacoes.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/informacoes.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/setup.tex
 Package color Info: Redefining color blue on input line 1.
 Package hyperref Info: Option `colorlinks' set `true' on input line 16.
 )
@@ -668,7 +668,7 @@ Writing index file tcc.idx
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count331
 \l__pdf_internal_box=\box51
-) (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.aux
+) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux
 
 LaTeX Warning: Label `pontos' multiply defined.
 
@@ -755,7 +755,7 @@ Package pdftex.def Info: figuras/capa-eps-converted-to.pdf  used on input line 1
 (pdftex.def)             Requested size: 597.47607pt x 844.89091pt.
  [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf>]
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf>]
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 14.
  (/usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -787,7 +787,7 @@ l.14
 
 
 
-] (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/fichaCatalografica.tex
+] (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/fichaCatalografica.tex
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
@@ -823,29 +823,29 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 30.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 30.
-) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/errata.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex [2] [3
+) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/errata.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex [2] [3
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/dedicatoria.tex [4
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/dedicatoria.tex [4
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/agradecimentos.tex [5
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/agradecimentos.tex [5
 
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/epigrafe.tex [6
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/epigrafe.tex [6
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/resumo.tex
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/resumo.tex
 Overfull \hbox (15.85434pt too wide) in paragraph at lines 12--14
 \T1/lmr/bx/n/12 Palavras-chave\T1/lmr/m/n/12 : Ga-mi-fi-ca-ção, Fer-ra-menta, Re-qui-si-tos, De-sen-vol-vi-mento, Mo-ti-va-ção, Apren-
  []
 
 [7
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/abstract.tex [8
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abstract.tex [8
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/listasAutomaticas.tex (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.lof) [9
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/listasAutomaticas.tex (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lof) [9
 
-] (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.lot) [10
+] (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lot) [10
 
-]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/abreviaturas.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/simbolos.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/fixos/indiceAutomatico.tex (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.toc
+]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abreviaturas.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/simbolos.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/indiceAutomatico.tex (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.toc
 LaTeX Font Info:    Font shape `T1/lmss/bx/it' in size <12> not available
 (Font)              Font shape `T1/lmss/bx/sl' tried instead on input line 18.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
@@ -859,7 +859,7 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
 ] [12]
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <14.4> on input line 102.
-) [13]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/introducao.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/aspectosgerais.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/consideracoes.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/textoepostexto.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/elementosdotexto.tex [14
+) [13]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/introducao.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/aspectosgerais.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/consideracoes.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/textoepostexto.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdotexto.tex [14
 
 
 ] [15] [16] [17]
@@ -870,7 +870,7 @@ Package pdftex.def Info: figuras/modoTradicional.png  used on input line 121.
 (pdftex.def)             Requested size: 349.46098pt x 53.23819pt.
  [18
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/modoTradicional.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modoTradicional.png>]
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <17.28> not available
 (Font)              Font shape `T1/lmss/m/sl' tried instead on input line 166.
  [19]
@@ -894,13 +894,13 @@ Package pdftex.def Info: figuras/octogono.jpg  used on input line 381.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[25 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/brain.png>] [26 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/octogono.jpg>]
+[25 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/brain.png>] [26 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/octogono.jpg>]
 <figuras/fasesjornada.png, id=547, 925.4575pt x 258.9675pt>
 File: figuras/fasesjornada.png Graphic file (type png)
 <use figuras/fasesjornada.png>
 Package pdftex.def Info: figuras/fasesjornada.png  used on input line 428.
 (pdftex.def)             Requested size: 444.21455pt x 124.30296pt.
- [27 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/fasesjornada.png>] [28]
+ [27 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/fasesjornada.png>] [28]
 Overfull \hbox (2.7515pt too wide) in paragraph at lines 473--476
 []\T1/lmr/m/n/12 Como apre-sen-tado por [][]Chou[][] ([][]2017[][][]) em seu li-vro \T1/lmr/m/it/12 "Ac-ti-o-na-ble Ga-mi-fi-ca-tion ^^U Beyond
  []
@@ -966,7 +966,7 @@ File: figuras/nivel3.png Graphic file (type png)
 <use figuras/nivel3.png>
 Package pdftex.def Info: figuras/nivel3.png  used on input line 514.
 (pdftex.def)             Requested size: 294.09802pt x 253.44626pt.
- [30 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/perfiljogadores.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/nivel3.png>]
+ [30 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/perfiljogadores.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/nivel3.png>]
 Overfull \hbox (23.13307pt too wide) in paragraph at lines 545--547
 []\T1/lmr/m/n/12 Na fi-gura [][]7[][] é apre-sen-tado um exem-plo sim-ples de um di-a-grama entidade-relacionamento
  []
@@ -985,7 +985,7 @@ File: figuras/cascata.png Graphic file (type png)
 <use figuras/cascata.png>
 Package pdftex.def Info: figuras/cascata.png  used on input line 602.
 (pdftex.def)             Requested size: 389.65875pt x 72.87279pt.
- [32 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/figura1.png>] [33 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/cascata.png>]
+ [32 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/figura1.png>] [33 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/cascata.png>]
 Underfull \hbox (badness 1194) in paragraph at lines 632--632
 []|\T1/lmr/m/n/12 Pontos, \T1/lmr/m/it/12 ran-king\T1/lmr/m/n/12 , lista de de-sa-fios e
  []
@@ -996,158 +996,166 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [34
 
 ]
-<figuras/espadas.png, id=662, 1125.20375pt x 294.09875pt>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[35]
+<figuras/espadas.png, id=667, 1125.20375pt x 294.09875pt>
 File: figuras/espadas.png Graphic file (type png)
 <use figuras/espadas.png>
-Package pdftex.def Info: figuras/espadas.png  used on input line 674.
+Package pdftex.def Info: figuras/espadas.png  used on input line 729.
 (pdftex.def)             Requested size: 450.07353pt x 117.6374pt.
- [35 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/espadas.png>] [36]
-<figuras/p1.png, id=676, 1157.32375pt x 282.05376pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[36]
+<figuras/p1.png, id=675, 1157.32375pt x 282.05376pt>
 File: figuras/p1.png Graphic file (type png)
 <use figuras/p1.png>
-Package pdftex.def Info: figuras/p1.png  used on input line 760.
+Package pdftex.def Info: figuras/p1.png  used on input line 758.
 (pdftex.def)             Requested size: 462.9213pt x 112.81949pt.
 
-Overfull \hbox (7.9213pt too wide) in paragraph at lines 760--761
+Overfull \hbox (7.9213pt too wide) in paragraph at lines 758--759
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<figuras/p2.png, id=677, 1185.42876pt x 263.98625pt>
+<figuras/p2.png, id=676, 1185.42876pt x 263.98625pt>
 File: figuras/p2.png Graphic file (type png)
 <use figuras/p2.png>
-Package pdftex.def Info: figuras/p2.png  used on input line 768.
+Package pdftex.def Info: figuras/p2.png  used on input line 766.
 (pdftex.def)             Requested size: 474.1631pt x 105.59262pt.
 
-Overfull \hbox (19.1631pt too wide) in paragraph at lines 768--769
+Overfull \hbox (19.1631pt too wide) in paragraph at lines 766--767
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[37]
+[37 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/espadas.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[38 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/p1.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/p2.png>] [39] [40
+[38 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p1.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p2.png>] [39] [40
 
 ]
 <figuras/arquitetura.png, id=730, 609.77812pt x 207.77625pt>
 File: figuras/arquitetura.png Graphic file (type png)
 <use figuras/arquitetura.png>
-Package pdftex.def Info: figuras/arquitetura.png  used on input line 883.
+Package pdftex.def Info: figuras/arquitetura.png  used on input line 881.
 (pdftex.def)             Requested size: 487.82315pt x 166.2212pt.
 
-Overfull \hbox (32.82315pt too wide) in paragraph at lines 883--884
+Overfull \hbox (32.82315pt too wide) in paragraph at lines 881--882
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[41] [42 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/arquitetura.png>]
+[41] [42 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/arquitetura.png>]
 <figuras/modeloprocesso.png, id=748, 614.295pt x 613.29124pt>
 File: figuras/modeloprocesso.png Graphic file (type png)
 <use figuras/modeloprocesso.png>
-Package pdftex.def Info: figuras/modeloprocesso.png  used on input line 919.
+Package pdftex.def Info: figuras/modeloprocesso.png  used on input line 917.
 (pdftex.def)             Requested size: 368.57983pt x 367.97757pt.
- [43 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/modeloprocesso.png>] [44]
+ [43 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modeloprocesso.png>] [44]
 <figuras/der.png, id=759, 1166.3575pt x 1250.6725pt>
 File: figuras/der.png Graphic file (type png)
 <use figuras/der.png>
-Package pdftex.def Info: figuras/der.png  used on input line 944.
+Package pdftex.def Info: figuras/der.png  used on input line 942.
 (pdftex.def)             Requested size: 466.53474pt x 500.26015pt.
 
-Overfull \hbox (11.53474pt too wide) in paragraph at lines 944--945
+Overfull \hbox (11.53474pt too wide) in paragraph at lines 942--943
  [][] 
  []
 
-[45 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/der.png>]
+[45 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/der.png>]
 <figuras/dl.png, id=765, 1475.5125pt x 1284.8pt>
 File: figuras/dl.png Graphic file (type png)
 <use figuras/dl.png>
-Package pdftex.def Info: figuras/dl.png  used on input line 953.
+Package pdftex.def Info: figuras/dl.png  used on input line 951.
 (pdftex.def)             Requested size: 472.17365pt x 411.14441pt.
 
-Overfull \hbox (17.17365pt too wide) in paragraph at lines 953--954
+Overfull \hbox (17.17365pt too wide) in paragraph at lines 951--952
  [][] 
  []
 
-[46 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/dl.png>]
+[46 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/dl.png>]
 <figuras/aisha.png, id=771, 295.1025pt x 619.31375pt>
 File: figuras/aisha.png Graphic file (type png)
 <use figuras/aisha.png>
-Package pdftex.def Info: figuras/aisha.png  used on input line 982.
+Package pdftex.def Info: figuras/aisha.png  used on input line 980.
 (pdftex.def)             Requested size: 177.06285pt x 371.59111pt.
- [47 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/aisha.png>]
+ [47 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/aisha.png>]
 <figuras/voxter.png, id=777, 288.07625pt x 636.3775pt>
 File: figuras/voxter.png Graphic file (type png)
 <use figuras/voxter.png>
-Package pdftex.def Info: figuras/voxter.png  used on input line 993.
+Package pdftex.def Info: figuras/voxter.png  used on input line 991.
 (pdftex.def)             Requested size: 172.84708pt x 381.82944pt.
  [48
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/voxter.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/voxter.png>]
 <figuras/lince.png, id=784, 291.0875pt x 556.0775pt>
 File: figuras/lince.png Graphic file (type png)
 <use figuras/lince.png>
-Package pdftex.def Info: figuras/lince.png  used on input line 1002.
+Package pdftex.def Info: figuras/lince.png  used on input line 1000.
 (pdftex.def)             Requested size: 174.65384pt x 333.64908pt.
  [49
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/lince.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/lince.png>]
 <figuras/amazona.png, id=791, 293.095pt x 452.69125pt>
 File: figuras/amazona.png Graphic file (type png)
 <use figuras/amazona.png>
-Package pdftex.def Info: figuras/amazona.png  used on input line 1011.
+Package pdftex.def Info: figuras/amazona.png  used on input line 1009.
 (pdftex.def)             Requested size: 175.85834pt x 271.61684pt.
  [50
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/amazona.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/amazona.png>]
 <figuras/tymer.png, id=797, 287.0725pt x 594.22pt>
 File: figuras/tymer.png Graphic file (type png)
 <use figuras/tymer.png>
-Package pdftex.def Info: figuras/tymer.png  used on input line 1020.
+Package pdftex.def Info: figuras/tymer.png  used on input line 1018.
 (pdftex.def)             Requested size: 172.24483pt x 356.53474pt.
  [51
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/tymer.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/tymer.png>]
 <figuras/scar.png, id=803, 288.07625pt x 566.115pt>
 File: figuras/scar.png Graphic file (type png)
 <use figuras/scar.png>
-Package pdftex.def Info: figuras/scar.png  used on input line 1029.
+Package pdftex.def Info: figuras/scar.png  used on input line 1027.
 (pdftex.def)             Requested size: 172.84708pt x 339.67162pt.
  [52
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/scar.png>] [53]
-Underfull \hbox (badness 10000) in paragraph at lines 1133--1133
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/scar.png>] [53]
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 []|\T1/lmr/bx/n/12 (1) Dis-cordo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1133--1133
+Underfull \hbox (badness 10000) in paragraph at lines 1131--1131
 []|\T1/lmr/bx/n/12 (2) Dis-cordo
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 1133--1133
+Underfull \hbox (badness 1264) in paragraph at lines 1131--1131
 []|\T1/lmr/bx/n/12 (3) Não con-
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 1133--1133
+Underfull \hbox (badness 3128) in paragraph at lines 1131--1131
 []|\T1/lmr/bx/n/12 (4) Con-cordo
  []
 
 
-Underfull \hbox (badness 3128) in paragraph at lines 1133--1133
+Underfull \hbox (badness 3128) in paragraph at lines 1131--1131
 []|\T1/lmr/bx/n/12 (5) Con-cordo
  []
 
-[54]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/elementosdopostexto.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.bbl (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.brf)
+[54]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdopostexto.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.bbl (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf)
 \tf@brf=\write5
 \openout5 = `tcc.brf'.
 
@@ -1155,7 +1163,7 @@ Underfull \hbox (badness 3128) in paragraph at lines 1133--1133
 bibitemlist
 [56
 
-] [57]) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/apendices.tex [58]
+] [57]) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/apendices.tex [58]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\uppercase' on input line 4.
@@ -1260,11 +1268,11 @@ Package pdftex.def Info: figuras/10.png  used on input line 71.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) (/Users/eduardo/Desktop/TCC/tcc2Escrita/editaveis/anexos.tex) (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.ind) 
+) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/anexos.tex) (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.ind) 
 AED: lastpage setting LastPage
 [60
 
- </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/j1.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/j2.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/j3.png>] [61 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/1.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/2.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/3.png>] [62 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/4.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/5.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/6.png>] [63 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/7.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/8.png> </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/9.png>] [64 </Users/eduardo/Desktop/TCC/tcc2Escrita/figuras/10.png>]
+ </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j1.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j2.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j3.png>] [61 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/1.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/2.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/3.png>] [62 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/4.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/5.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/6.png>] [63 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/7.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/8.png> </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/9.png>] [64 </Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/10.png>]
 \tf@lof=\write6
 \openout6 = `tcc.lof'.
 
@@ -1276,7 +1284,7 @@ AED: lastpage setting LastPage
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 46.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 46.
- (/Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.aux)
+ (/Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 46.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 46.
 Package rerunfilecheck Info: File `tcc.brf' has not changed.
@@ -1289,14 +1297,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 46.
  ) 
 Here is how much of TeX's memory you used:
  13793 strings out of 480608
- 211403 string characters out of 5903629
+ 211928 string characters out of 5903629
  523521 words of memory out of 5000000
  29012 multiletter control sequences out of 15000+600000
  631124 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,13n,45p,471b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,13n,45p,478b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on /Users/eduardo/Desktop/TCC/tcc2Escrita/tcc.pdf (65 pages, 4100081 bytes).
+Output written on /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.pdf (65 pages, 4100153 bytes).
 PDF statistics:
  1381 PDF objects out of 1440 (max. 8388607)
  1213 compressed objects within 13 object streams
