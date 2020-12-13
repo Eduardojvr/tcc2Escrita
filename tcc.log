@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  13 DEC 2020 11:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.10.24)  13 DEC 2020 11:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1304,7 +1304,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  45i,13n,45p,478b,613s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb>
-Output written on /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.pdf (65 pages, 4100153 bytes).
+Output written on /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.pdf (65 pages, 4100172 bytes).
 PDF statistics:
  1381 PDF objects out of 1440 (max. 8388607)
  1213 compressed objects within 13 object streams
