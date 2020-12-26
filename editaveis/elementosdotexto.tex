@@ -21,7 +21,7 @@ condicionais.
 
 Dificuldades como estas apresentadas, encorajam o desenvolvimento de soluções que auxiliem no ensino e aprendizagem de programação de forma diferente ao
 atual modelo de ensino. Diversas abordagens de ensino são estudadas para facilitar o aprendizado dos alunos, algumas delas são:
-gamificação, programação imperativa, programação funcional e etc. Neste trabalho, é abordado o uso da gamificação na construção de uma ferramenta
+gamificação, programação imperativa, programação funcional dentre outras. Neste trabalho, é abordado o uso da gamificação na construção de uma ferramenta
 de apoio ao ensino e aprendizagem de programação desenvolvida com base nos requisitos identificados a partir da interação com ex alunos
 da disciplina de Algoritmos de Programação de Computadores, ofertada pela Universidade de Brasília, campus Gama.
 
@@ -45,7 +45,7 @@ jogos são excelentes fontes para se adquirir experiência que são dificeis de 
 
 Os ambientes online gamificados de apoio ao ensino podem fornecer diversas ferramentas, entre elas: classificações, batalhas, fórums de discussões e etc.
 De forma a incentivar os usuários a participarem das atividades propostas. 
-Durante as competições e batalhas, os estudantes têm a possibilidade de aprender com outros jogadores e comparar suas habilidades, tornando o aprendizado mais
+Durante as competições e batalhas, os estudantes têm a possibilidade de aprender com outros jogadores e comparar suas habilidades, tendo o potêncial de tornar o aprendizado mais
 prazeroso \cite{LearningProgramming}. 
 
 \pagebreak
@@ -77,13 +77,13 @@ os índices de reprovação e trancamento da disciplina giraram em torno dos 64\
 
 Um outro estudo, realizado na Faculdade de Educação Tecnológica do Estado do Rio de Janeiro (FAETERJ-Paracambi) por \citeonline{vieira2015dificuldades}, 
 envolvendo 663 alunos da disciplina de Algoritmos 1 mostrou que, destes alunos, apenas 511 cursaram a disciplina 
-até o final, ou seja, cerca de 152 alunos desistiram da disciplina. Do total restante (511), apenas 30\% foram
-diretamente aprovados (cerca de 153 alunos), 40\% foram reprovados diretamente (204 alunos) e 30\% foram para o exame final (recuperação, 153).
+até o final, ou seja, 152 alunos desistiram da disciplina. Do total restante (511), apenas 30\% foram
+diretamente aprovados (153 alunos), 40\% foram reprovados diretamente (204 alunos) e 30\% foram para o exame final (recuperação, 153).
 Dos 153 alunos que foram para a recuperação, apenas 55\% foram aprovados (84 alunos), nota-se então que, dos 663 alunos que
 foram matriculados na disciplina, apenas  288 alunos foram aprovados ao seu término, cerca de 43\%.
 
 \section{Problema}
-Como desenvolver uma ferramenta gamificada para apoiar o ensino e aprendizagem de programação.
+Desenvolver uma ferramenta gamificada que possa servir como apoio ao ensino e a aprendizagem de programação.
 % Nas seções anteriores, apresentou-se alguns estudos realizados a respeito da situação encontrada durante as análises iniciais do ensino e aprendizagem
 % de programação em matérias introdutórias, a partir destes panoramas, o presente trabalho, visa demonstrar os resultados e passos dados na construção de uma
 % ferramenta gamificada para auxiliar o ensino e aprendizagem de programação.
@@ -94,12 +94,13 @@ Desenvolver uma ferramenta gamificada para apoiar o ensino e aprendizagem de pro
 % Tendo sido apresentado o contexto e problema, o objetivo geral do presente trabalho é demonstrar o desenvolvimento e resultados
 % obtidos durante a construção da mesma.
 
-% Para alcançar o objetivo geral, foram definidos os seguintes objetivos específicos:
-% \begin{itemize}
-% 	\item Desenvolvimento da ferramenta gamificada com base nos requisitos;
-% 	\item Definição do método de coleta de dados a respeito da utilização da ferramenta pelos usuários;
-% 	\item Análise dos dados a respeito da experiência de uso.
-% \end{itemize}
+Para alcançar o objetivo geral, foram definidos os seguintes objetivos específicos:
+\begin{itemize}
+	\item Definição de \textit{core drives};
+	\item Desenvolvimento da ferramenta gamificada com base nos requisitos, \textit{core drives} e modelo de dados;
+	\item Definição do método de coleta de dados a respeito da utilização da ferramenta pelos usuários;
+	\item Análise dos dados a respeito da experiência de uso.
+\end{itemize}
 
 \chapter{Referencial teórico}
 
@@ -179,7 +180,7 @@ O \textit{Framework Octalysis} une elementos de \textit{design} de jogos com a p
 no processo de gamificação a realizarem determinadas ações. O modelo de \citeonline{chou2017actionable} apresenta oito eixos principais que 
 são chamados de \textit{core drives}, cada \textit{core} apresenta características que por sua vez apresentam técnicas que
 influenciam diretamente os jogadores. Nas subseções a seguir, é apresentado cada um dos oito \textit{core drives}
-definidos por Yu-Kai Chou.
+definidos por Yu-Kai Chou..
 
 \subsection{Significado épico e chamado}
 Significado épico e chamado, segundo \citeonline{chou2017actionable}, é um \textit{core} que provoca a sensação no jogador de que ele está envolvido em algo 
@@ -979,7 +980,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/aisha.png}
 	\caption{Personagem Aisha}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-1889977/
 	\label{aisha}
 \end{figure}
 
@@ -990,7 +991,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/voxter.png}
 	\caption{Personagem Voxter}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-3095911/
 	\label{voxter}
 \end{figure}
 \clearpage
@@ -999,7 +1000,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/lince.png}
 	\caption{Personagem Lince}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-2849393/
 	\label{lince}
 \end{figure}
 \clearpage
@@ -1008,7 +1009,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/amazona.png}
 	\caption{Personagem Amazona}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-2948158/
 	\label{amazona}
 \end{figure}
 \clearpage
@@ -1017,7 +1018,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/tymer.png}
 	\caption{Personagem Tymer}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-3190959/
 	\label{tymer}
 \end{figure}
 \clearpage
@@ -1026,7 +1027,7 @@ Os personagens são apresentados a seguir.
 	\centering
 	\includegraphics[keepaspectratio=true,scale=0.6]{figuras/scar.png}
 	\caption{Personagem Scar}
-	Fonte: Autor
+	Retirada do site https://pixabay.com/images/id-1889980/
 	\label{scar}
 \end{figure}
 
@@ -1098,13 +1099,12 @@ pontuação total do jogador mais 100 pontos. Os  desafios variam de simples res
 \section{Teste: Experiência de uso}
 
 Com objetivo levantar informações a respeito da experiência de uso dos jogadores. Foi elaborado e aplicado um questionário 
-onde os participantes responderam algumas perguntas de como foi a experiência de uso da ferramenta, interface e etc. Participaram da pesquisa
-cerca de 15 alunos dos diversos cursos de engenharias da FGA.
+onde os participantes responderam algumas perguntas de como foi a experiência de uso da ferramenta, interface e etc. Participaram da pesquisa 15 alunos dos diversos cursos de engenharias da FGA.
 
 Nesta sessão, são apresentados algumas análises realizadas em cima dos dados obtidos por meio do questionário.
 
-Como mencionado anteriormente, participaram da experiëncia cerca de 15 alunos com idades variando de 18 à 36 anos. 
-Aproximadamente 93,3\% (cerca de 14 alunos) dos participantes são homens, 86,7\% (cerca de 13 alunos) já cursaram alguma
+Como mencionado anteriormente, participaram da experiência 15 alunos com idades variando de 18 a 36 anos. 
+Aproximadamente 93,3\% (14 alunos) dos participantes são homens, 86,7\% (13 alunos) já cursaram alguma
 disciplina introdutória de programação.
 
 Além de perguntas relacionadas à orientação sexual, idade e se já cursaram alguma disciplina introdutória de programação.
@@ -1135,16 +1135,25 @@ o percentual de respostas para as afirmativas, que podiam ser julgadas em uma es
 	% \small{Quadro 2 - Requisitos funcionais} 
 \end{table}
 
-O questionário aplicado pode ser apreciado no apêndice \ref{apenda} deste trabalho.
+% O questionário aplicado pode ser apreciado no apêndice \ref{apenda} deste trabalho.
 
 \section{Repositórios}
 
 Conforme apresentado neste trabalho, a aplicação e seu banco de dados foram hospedados no servidor Heroku e 
-pode ser acessada por meio do endereço apresentado a seguir.
+podem ser acessadas por meio do endereço apresentado a seguir.
 
 \begin{itemize}
 	\item Servidor da aplicação: https://progamefication.herokuapp.com/
 	\item Versionamento de código: https://github.com/Eduardojvr/ProGame-PG
 \end{itemize}
 
+\section{Conclusão}
 
+Os sistemas de software tem como objetivo prover soluções que possam auxiliar as mais variadas
+atividades humanas. Quando aplicada à educação juntamente com técnicas motivacionais, estes artefatos
+podem modificar a forma como diversos conteúdos são ensinados, podendo então motivar os indivíduos a terem
+um posicionamento mais participativo e lúdico frente aos conteúdos. Este trabalho busca dar início a este tipo
+de ensino que associa tecnologia e ensino. Desenvolver a ferramenta, embora trabalhoso, não foi a tarefa mais 
+complicada deste trabalho, entender como os jogos afetam os indivíduos e a visão dos mesmos ao utilzar sistemas
+que apresentam este tipo de características (jogos), sem dúvida foi uma das tarefas mais complexas. Espera-se 
+que este trabalho possa servir como pontapé inicial para futuras pesquisa e/ou evoluções.

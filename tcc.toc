@@ -93,14 +93,7 @@
 \contentsline {subsubsection}{\numberline {4.7.5.2}Desafio individual}{53}{subsubsection.4.7.5.2}%
 \contentsline {section}{\numberline {4.8}Teste: Experiência de uso}{54}{section.4.8}%
 \contentsline {section}{\numberline {4.9}Repositórios}{55}{section.4.9}%
+\contentsline {section}{\numberline {4.10}Conclusão}{55}{section.4.10}%
 \vspace {\cftbeforechapterskip }
 \setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
 \contentsline {chapter}{\MakeTextUppercase {Refer\^encias}}{56}{section*.14}%
-\renewcommand *{\cftappendixname }{AP\^ENDICE \space }
-\setlength {\cftpartindent }{\cftlastnumwidth } \setlength {\cftpartnumwidth }{2em}
-\cftinsert {A}
-\contentsline {part}{\uppercase {Ap\^endices}}{59}{section*.15}%
-\setlength {\cftchapterindent }{0em} \setlength {\cftchapternumwidth }{\cftlastnumwidth }
-\setlength {\cftchapterindent }{\cftlastnumwidth } \setlength {\cftchapternumwidth }{2em}
-\cftinsert {A}
-\contentsline {appendix}{\chapternumberline {A}\MakeTextUppercase {Questionário: Teste de usabilidade}}{60}{appendix.A}%

@@ -1,442 +1,400 @@
-PWD /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita
-INPUT /usr/local/texlive/2020/texmf.cnf
-INPUT /usr/local/texlive/2020/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.tex
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.log
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/pacotes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/pacotes.tex
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2.cls
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2.cls
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memoir.cls
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memoir.cls
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/mem12.clo
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/mem12.clo
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/dcolumn.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/delarray.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/delarray.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memhfixc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memhfixc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bookmark.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-french/french.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-french/french.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-french/french.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-spanish/spanish.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-portuges/portuges.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/babel-portuges/portuges.ldf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/carlisle/scalefnt.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/carlisle/scalefnt.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/cmap.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/cmap.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/lmodern.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/t1.cmap
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.pdf
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/t1.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lastpage/lastpage.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/color.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/units/units.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/units/units.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/units/nicefrac.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/units/nicefrac.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/backref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/backref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2cite.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2cite.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2abrev.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/abntex2/abntex2abrev.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifxetex.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/relsize/relsize.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bold-extra/bold-extra.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/bold-extra/bold-extra.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/comandos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/comandos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/customizacoes.sty
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/customizacoes.sty
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/informacoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/informacoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/informacoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/informacoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/setup.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/setup.tex
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.idx
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmss.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/t1lmss.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa.eps
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa.eps
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa.eps
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa.eps
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/capa-eps-converted-to.pdf
-INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ot1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/ot1.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cmap/ot1.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omllmm.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/oml.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/oml.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omslmsy.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/oms.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/oms.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy8.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy6.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/omxlmex.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmex10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/omx.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/mmap/omx.cmap
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr12.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/fichaCatalografica.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/fichaCatalografica.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmr10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr5.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy7.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy5.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/errata.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/errata.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/folhaDeAprovacao.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/dedicatoria.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/dedicatoria.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/agradecimentos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/agradecimentos.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/epigrafe.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/epigrafe.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/resumo.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/resumo.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abstract.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abstract.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/listasAutomaticas.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/listasAutomaticas.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lof
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lof
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lot
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lot
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abreviaturas.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/abreviaturas.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/simbolos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/simbolos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/indiceAutomatico.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/fixos/indiceAutomatico.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.toc
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.toc
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmssbo10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmsso10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmssbx10.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/rm-lmr12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmmi12.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/lmsy10.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/introducao.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/introducao.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/aspectosgerais.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/aspectosgerais.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/consideracoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/consideracoes.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/textoepostexto.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/textoepostexto.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdotexto.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdotexto.tex
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmss17.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmri10.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modoTradicional.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modoTradicional.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modoTradicional.png
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmsso17.tfm
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/lm/ts1lmr.fd
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/brain.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/brain.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/brain.png
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmsso12.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/octogono.jpg
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/octogono.jpg
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/octogono.jpg
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/fasesjornada.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/fasesjornada.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/fasesjornada.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/perfiljogadores.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/perfiljogadores.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/perfiljogadores.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/nivel3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/nivel3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/nivel3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/figura1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/figura1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/figura1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/cascata.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/cascata.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/cascata.png
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/tfm/public/lm/ec-lmbxi10.tfm
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/espadas.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/espadas.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/espadas.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/p2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/arquitetura.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/arquitetura.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/arquitetura.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modeloprocesso.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modeloprocesso.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/modeloprocesso.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/der.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/der.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/der.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/dl.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/dl.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/dl.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/aisha.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/aisha.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/aisha.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/voxter.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/voxter.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/voxter.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/lince.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/lince.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/lince.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/amazona.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/amazona.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/amazona.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/tymer.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/tymer.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/tymer.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/scar.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/scar.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/scar.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdopostexto.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/elementosdopostexto.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.bbl
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.bbl
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/apendices.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/apendices.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/j3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/1.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/2.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/3.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/4.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/4.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/4.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/5.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/5.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/5.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/6.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/6.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/6.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/7.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/7.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/7.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/8.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/8.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/8.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/9.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/9.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/9.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/10.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/10.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/figuras/10.png
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/anexos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/editaveis/anexos.tex
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.ind
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.ind
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lof
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.lot
-OUTPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.toc
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.aux
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /Users/eduardo/Desktop/PASTAS/TCC/tcc2Escrita/tcc.brf
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmri12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbo10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso10.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso12.pfb
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsso17.pfb
+PWD /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.tex
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.log
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/pacotes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/pacotes.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/memoir.cls
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/mem12.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/dcolumn.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/delarray.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/textcase/textcase.sty
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/memoir/memhfixc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-french/french.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/generic/babel-portuges/portuges.ldf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/carlisle/scalefnt.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/cmap.sty
+INPUT /usr/share/texmf/tex/latex/lm/lmodern.sty
+INPUT /usr/share/texmf/tex/latex/lm/lmodern.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
+INPUT /usr/share/texmf/tex/latex/lm/t1lmr.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/t1.cmap
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.pdf
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/t1.cmap
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/lastpage/lastpage.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/units/units.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/units/nicefrac.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/backref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2cite.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/abntex2/abntex2abrev.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bold-extra/bold-extra.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/bold-extra/bold-extra.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/comandos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/comandos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/customizacoes.sty
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/customizacoes.sty
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/informacoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/informacoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/informacoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/informacoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/setup.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/setup.tex
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.idx
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.aux
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.aux
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.aux
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbx12.tfm
+INPUT /usr/share/texmf/tex/latex/lm/t1lmss.fd
+INPUT /usr/share/texmf/tex/latex/lm/t1lmss.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa.eps
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa.eps
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa.eps
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa-eps-converted-to.pdf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa-eps-converted-to.pdf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa.eps
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa-eps-converted-to.pdf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa-eps-converted-to.pdf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/capa-eps-converted-to.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmssbx10.tfm
+INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf/tex/latex/lm/ot1lmr.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/ot1.cmap
+INPUT /usr/share/texlive/texmf-dist/tex/latex/cmap/ot1.cmap
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omllmm.fd
+INPUT /usr/share/texmf/tex/latex/lm/omllmm.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/oml.cmap
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/oml.cmap
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omslmsy.fd
+INPUT /usr/share/texmf/tex/latex/lm/omslmsy.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/oms.cmap
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/oms.cmap
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy8.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy6.tfm
+INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
+INPUT /usr/share/texmf/tex/latex/lm/omxlmex.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmex10.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/omx.cmap
+INPUT /usr/share/texlive/texmf-dist/tex/latex/mmap/omx.cmap
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr12.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/fichaCatalografica.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/fichaCatalografica.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmr10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr7.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/rm-lmr5.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi7.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmmi5.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy7.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/lmsy5.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/errata.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/errata.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/folhaDeAprovacao.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/folhaDeAprovacao.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/dedicatoria.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/dedicatoria.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/agradecimentos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/agradecimentos.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/epigrafe.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/epigrafe.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri12.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/resumo.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/resumo.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/abstract.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/abstract.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/listasAutomaticas.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/listasAutomaticas.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lof
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lof
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lot
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lot
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/abreviaturas.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/abreviaturas.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/simbolos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/simbolos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/indiceAutomatico.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/fixos/indiceAutomatico.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.toc
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.toc
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmssbo10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso12.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso10.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/introducao.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/introducao.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/aspectosgerais.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/aspectosgerais.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/consideracoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/consideracoes.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/textoepostexto.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/textoepostexto.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/elementosdotexto.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/elementosdotexto.tex
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmss17.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmri10.tfm
+INPUT /usr/share/texmf/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texmf/tex/latex/lm/ts1lmr.fd
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modoTradicional.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modoTradicional.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modoTradicional.png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso17.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/brain.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/brain.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/brain.png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmsso12.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/octogono.jpg
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/octogono.jpg
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/octogono.jpg
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/fasesjornada.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/fasesjornada.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/fasesjornada.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/perfiljogadores.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/perfiljogadores.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/perfiljogadores.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/nivel3.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/nivel3.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/nivel3.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/figura1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/figura1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/figura1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/cascata.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/cascata.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/cascata.png
+INPUT /usr/share/texmf/fonts/tfm/public/lm/ec-lmbxi10.tfm
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/espadas.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/espadas.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/espadas.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p1.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p2.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p2.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/p2.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/arquitetura.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/arquitetura.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/arquitetura.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modeloprocesso.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modeloprocesso.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/modeloprocesso.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/der.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/der.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/der.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/dl.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/dl.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/dl.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/aisha.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/aisha.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/aisha.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/voxter.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/voxter.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/voxter.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/lince.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/lince.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/lince.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/amazona.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/amazona.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/amazona.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/tymer.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/tymer.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/tymer.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/scar.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/scar.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/figuras/scar.png
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/elementosdopostexto.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/elementosdopostexto.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.bbl
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.bbl
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/apendices.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/apendices.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/anexos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/editaveis/anexos.tex
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.ind
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.ind
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lof
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.lot
+OUTPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.toc
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.aux
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /home/eduardo/Área de Trabalho/ARQUIVOS/tcc2Escrita/tcc.brf
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ec.enc
+INPUT /usr/share/texmf/fonts/enc/dvips/lm/lm-ts1.enc
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmbx12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmri10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmri12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmss10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmss12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmss17.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmssbo10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmsso10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb
+INPUT /usr/share/texmf/fonts/type1/public/lm/lmsso17.pfb
